@@ -8,7 +8,6 @@ int* getConcatenation(int* nums, int numsSize, int* returnSize) {
         ans[i+numsSize]=nums[i];
     }
     *returnSize=numsSize*2;
-    
 
     return ans;
     
