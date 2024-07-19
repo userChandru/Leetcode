@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/userChandru/Leetcode/tree/master/0001-two-sum) |
+| [0066-plus-one](https://github.com/userChandru/Leetcode/tree/master/0066-plus-one) |
 | [1580-shuffle-the-array](https://github.com/userChandru/Leetcode/tree/master/1580-shuffle-the-array) |
 | [1635-number-of-good-pairs](https://github.com/userChandru/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [1791-richest-customer-wealth](https://github.com/userChandru/Leetcode/tree/master/1791-richest-customer-wealth) |
@@ -29,6 +30,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/userChandru/Leetcode/tree/master/0002-add-two-numbers) |
+| [0066-plus-one](https://github.com/userChandru/Leetcode/tree/master/0066-plus-one) |
 | [1635-number-of-good-pairs](https://github.com/userChandru/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/userChandru/Leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Counting
