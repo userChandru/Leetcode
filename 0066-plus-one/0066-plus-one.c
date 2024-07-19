@@ -13,7 +13,6 @@ int* plusOne(int* digits, int digitsSize, int* returnSize) {
             if(n==0 && sum==1){
                 ans[0]+=1;
                 *returnSize=digitsSize+1;
-                printf("-%d-\n",*returnSize);
                 break;
             }
             ans[n]+=sum;
