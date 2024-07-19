@@ -17,10 +17,8 @@ int* plusOne(int* digits, int digitsSize, int* returnSize) {
                 break;
             }
             ans[n]+=sum;
-            printf("%d",ans[n]);
             sum=ans[n]/10;
             ans[n]%=10;
-            printf("=>%d ",ans[n]);
             n--;
         }while(sum);
     }
