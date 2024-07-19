@@ -23,6 +23,6 @@ int* plusOne(int* digits, int digitsSize, int* returnSize) {
         }while(sum);
     }
     ans[digitsSize]=rem;
-    if(*returnSize==digitsSize) {printf("ii");return (ans+1);}
+    if(*returnSize==digitsSize) return (ans+1);
     return ans;
 }
