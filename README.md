@@ -36,6 +36,7 @@
 | [0002-add-two-numbers](https://github.com/userChandru/Leetcode/tree/master/0002-add-two-numbers) |
 | [0066-plus-one](https://github.com/userChandru/Leetcode/tree/master/0066-plus-one) |
 | [1635-number-of-good-pairs](https://github.com/userChandru/Leetcode/tree/master/1635-number-of-good-pairs) |
+| [2608-count-the-digits-that-divide-a-number](https://github.com/userChandru/Leetcode/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [2619-categorize-box-according-to-criteria](https://github.com/userChandru/Leetcode/tree/master/2619-categorize-box-according-to-criteria) |
 | [3321-type-of-triangle](https://github.com/userChandru/Leetcode/tree/master/3321-type-of-triangle) |
 | [3371-harshad-number](https://github.com/userChandru/Leetcode/tree/master/3371-harshad-number) |
