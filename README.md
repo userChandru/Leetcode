@@ -14,6 +14,7 @@
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/userChandru/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2454-largest-local-values-in-a-matrix](https://github.com/userChandru/Leetcode/tree/master/2454-largest-local-values-in-a-matrix) |
 | [3194-find-words-containing-character](https://github.com/userChandru/Leetcode/tree/master/3194-find-words-containing-character) |
+| [3321-type-of-triangle](https://github.com/userChandru/Leetcode/tree/master/3321-type-of-triangle) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/userChandru/Leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Hash Table
 |  |
@@ -33,6 +34,7 @@
 | [0002-add-two-numbers](https://github.com/userChandru/Leetcode/tree/master/0002-add-two-numbers) |
 | [0066-plus-one](https://github.com/userChandru/Leetcode/tree/master/0066-plus-one) |
 | [1635-number-of-good-pairs](https://github.com/userChandru/Leetcode/tree/master/1635-number-of-good-pairs) |
+| [3321-type-of-triangle](https://github.com/userChandru/Leetcode/tree/master/3321-type-of-triangle) |
 | [3371-harshad-number](https://github.com/userChandru/Leetcode/tree/master/3371-harshad-number) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/userChandru/Leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Counting
@@ -68,4 +70,8 @@
 |  |
 | ------- |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/userChandru/Leetcode/tree/master/3349-maximum-length-substring-with-two-occurrences) |
+## Sorting
+|  |
+| ------- |
+| [3321-type-of-triangle](https://github.com/userChandru/Leetcode/tree/master/3321-type-of-triangle) |
 <!---LeetCode Topics End-->
