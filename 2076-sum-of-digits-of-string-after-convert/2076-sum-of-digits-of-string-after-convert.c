@@ -4,8 +4,8 @@ int getLucky(char* s, int k) {
         int a=((int)(s[i]-'a')+1);
         sum+=(a%10)+(a/10);
     }
-    k--;
-    while(sum>=10 && k--){
+
+    while(sum>=10 && --k){
         while(sum){
             add+=sum%10;
             sum/=10;
