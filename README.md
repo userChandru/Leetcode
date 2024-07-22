@@ -12,6 +12,7 @@
 | [2048-build-array-from-permutation](https://github.com/userChandru/Leetcode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/userChandru/Leetcode/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/userChandru/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/userChandru/Leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2454-largest-local-values-in-a-matrix](https://github.com/userChandru/Leetcode/tree/master/2454-largest-local-values-in-a-matrix) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/userChandru/Leetcode/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [2714-left-and-right-sum-differences](https://github.com/userChandru/Leetcode/tree/master/2714-left-and-right-sum-differences) |
@@ -79,9 +80,14 @@
 ## Sorting
 |  |
 | ------- |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/userChandru/Leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [3321-type-of-triangle](https://github.com/userChandru/Leetcode/tree/master/3321-type-of-triangle) |
 ## Prefix Sum
 |  |
 | ------- |
 | [2714-left-and-right-sum-differences](https://github.com/userChandru/Leetcode/tree/master/2714-left-and-right-sum-differences) |
+## Greedy
+|  |
+| ------- |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/userChandru/Leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 <!---LeetCode Topics End-->
