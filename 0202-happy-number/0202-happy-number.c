@@ -11,7 +11,7 @@ int squaredSum(int t){
     while(temp){
         if(temp==1) return true;
         temp = squaredSum(temp);
-        if(temp==61 || temp==16 || temp==29 || temp==92)
+        if(++seen[temp]>1)
             return false;   
     }
     return true;
