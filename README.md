@@ -31,6 +31,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/userChandru/Leetcode/tree/master/0258-add-digits) |
 | [2048-build-array-from-permutation](https://github.com/userChandru/Leetcode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/userChandru/Leetcode/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/userChandru/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -40,6 +41,7 @@
 | [0002-add-two-numbers](https://github.com/userChandru/Leetcode/tree/master/0002-add-two-numbers) |
 | [0066-plus-one](https://github.com/userChandru/Leetcode/tree/master/0066-plus-one) |
 | [0202-happy-number](https://github.com/userChandru/Leetcode/tree/master/0202-happy-number) |
+| [0258-add-digits](https://github.com/userChandru/Leetcode/tree/master/0258-add-digits) |
 | [1635-number-of-good-pairs](https://github.com/userChandru/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/userChandru/Leetcode/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [2619-categorize-box-according-to-criteria](https://github.com/userChandru/Leetcode/tree/master/2619-categorize-box-according-to-criteria) |
@@ -99,4 +101,8 @@
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/userChandru/Leetcode/tree/master/0202-happy-number) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/userChandru/Leetcode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
