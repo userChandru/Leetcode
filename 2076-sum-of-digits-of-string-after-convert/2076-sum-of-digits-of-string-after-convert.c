@@ -3,7 +3,7 @@ int getLucky(char* s, int k) {
     for(int i=0; s[i]!='\0'; i++){
         int a=((int)(s[i]-'a')+1);
         sum+=(a%10)+(a/10);
-        printf("%c-%d sum=%d\n",s[i],a,sum);
+
     }
     k--;
     while(sum>=10 && k--){
