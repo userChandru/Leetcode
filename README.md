@@ -44,6 +44,7 @@
 | [0202-happy-number](https://github.com/userChandru/Leetcode/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/userChandru/Leetcode/tree/master/0258-add-digits) |
 | [1635-number-of-good-pairs](https://github.com/userChandru/Leetcode/tree/master/1635-number-of-good-pairs) |
+| [2083-three-divisors](https://github.com/userChandru/Leetcode/tree/master/2083-three-divisors) |
 | [2491-smallest-even-multiple](https://github.com/userChandru/Leetcode/tree/master/2491-smallest-even-multiple) |
 | [2556-convert-the-temperature](https://github.com/userChandru/Leetcode/tree/master/2556-convert-the-temperature) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/userChandru/Leetcode/tree/master/2608-count-the-digits-that-divide-a-number) |
@@ -83,6 +84,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [2083-three-divisors](https://github.com/userChandru/Leetcode/tree/master/2083-three-divisors) |
 | [3361-latest-time-you-can-obtain-after-replacing-characters](https://github.com/userChandru/Leetcode/tree/master/3361-latest-time-you-can-obtain-after-replacing-characters) |
 ## Sliding Window
 |  |
@@ -110,5 +112,6 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/userChandru/Leetcode/tree/master/0258-add-digits) |
+| [2083-three-divisors](https://github.com/userChandru/Leetcode/tree/master/2083-three-divisors) |
 | [2491-smallest-even-multiple](https://github.com/userChandru/Leetcode/tree/master/2491-smallest-even-multiple) |
 <!---LeetCode Topics End-->
