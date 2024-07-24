@@ -58,11 +58,13 @@
 ## Counting
 |  |
 | ------- |
+| [1341-split-a-string-in-balanced-strings](https://github.com/userChandru/Leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1635-number-of-good-pairs](https://github.com/userChandru/Leetcode/tree/master/1635-number-of-good-pairs) |
 ## String
 |  |
 | ------- |
 | [1205-defanging-an-ip-address](https://github.com/userChandru/Leetcode/tree/master/1205-defanging-an-ip-address) |
+| [1341-split-a-string-in-balanced-strings](https://github.com/userChandru/Leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/userChandru/Leetcode/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/userChandru/Leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/userChandru/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -107,6 +109,7 @@
 ## Greedy
 |  |
 | ------- |
+| [1341-split-a-string-in-balanced-strings](https://github.com/userChandru/Leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/userChandru/Leetcode/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/userChandru/Leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 ## Two Pointers
