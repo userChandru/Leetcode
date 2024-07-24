@@ -12,6 +12,7 @@
 | [1791-richest-customer-wealth](https://github.com/userChandru/Leetcode/tree/master/1791-richest-customer-wealth) |
 | [2048-build-array-from-permutation](https://github.com/userChandru/Leetcode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/userChandru/Leetcode/tree/master/2058-concatenation-of-array) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/userChandru/Leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/userChandru/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/userChandru/Leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2454-largest-local-values-in-a-matrix](https://github.com/userChandru/Leetcode/tree/master/2454-largest-local-values-in-a-matrix) |
@@ -45,6 +46,7 @@
 | [0258-add-digits](https://github.com/userChandru/Leetcode/tree/master/0258-add-digits) |
 | [1635-number-of-good-pairs](https://github.com/userChandru/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [2083-three-divisors](https://github.com/userChandru/Leetcode/tree/master/2083-three-divisors) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/userChandru/Leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2491-smallest-even-multiple](https://github.com/userChandru/Leetcode/tree/master/2491-smallest-even-multiple) |
 | [2556-convert-the-temperature](https://github.com/userChandru/Leetcode/tree/master/2556-convert-the-temperature) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/userChandru/Leetcode/tree/master/2608-count-the-digits-that-divide-a-number) |
@@ -113,5 +115,6 @@
 | ------- |
 | [0258-add-digits](https://github.com/userChandru/Leetcode/tree/master/0258-add-digits) |
 | [2083-three-divisors](https://github.com/userChandru/Leetcode/tree/master/2083-three-divisors) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/userChandru/Leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2491-smallest-even-multiple](https://github.com/userChandru/Leetcode/tree/master/2491-smallest-even-multiple) |
 <!---LeetCode Topics End-->
