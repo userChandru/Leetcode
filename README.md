@@ -123,4 +123,12 @@
 | [2083-three-divisors](https://github.com/userChandru/Leetcode/tree/master/2083-three-divisors) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/userChandru/Leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2491-smallest-even-multiple](https://github.com/userChandru/Leetcode/tree/master/2491-smallest-even-multiple) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0338-counting-bits](https://github.com/userChandru/Leetcode/tree/master/0338-counting-bits) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0338-counting-bits](https://github.com/userChandru/Leetcode/tree/master/0338-counting-bits) |
 <!---LeetCode Topics End-->
