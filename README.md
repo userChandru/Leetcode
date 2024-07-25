@@ -63,6 +63,7 @@
 ## String
 |  |
 | ------- |
+| [0392-is-subsequence](https://github.com/userChandru/Leetcode/tree/master/0392-is-subsequence) |
 | [1205-defanging-an-ip-address](https://github.com/userChandru/Leetcode/tree/master/1205-defanging-an-ip-address) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/userChandru/Leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/userChandru/Leetcode/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
@@ -116,6 +117,7 @@
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/userChandru/Leetcode/tree/master/0202-happy-number) |
+| [0392-is-subsequence](https://github.com/userChandru/Leetcode/tree/master/0392-is-subsequence) |
 ## Number Theory
 |  |
 | ------- |
@@ -127,6 +129,7 @@
 |  |
 | ------- |
 | [0338-counting-bits](https://github.com/userChandru/Leetcode/tree/master/0338-counting-bits) |
+| [0392-is-subsequence](https://github.com/userChandru/Leetcode/tree/master/0392-is-subsequence) |
 ## Bit Manipulation
 |  |
 | ------- |
