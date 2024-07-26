@@ -19,6 +19,7 @@
 | [2454-largest-local-values-in-a-matrix](https://github.com/userChandru/Leetcode/tree/master/2454-largest-local-values-in-a-matrix) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/userChandru/Leetcode/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [2714-left-and-right-sum-differences](https://github.com/userChandru/Leetcode/tree/master/2714-left-and-right-sum-differences) |
+| [2876-number-of-employees-who-met-the-target](https://github.com/userChandru/Leetcode/tree/master/2876-number-of-employees-who-met-the-target) |
 | [3194-find-words-containing-character](https://github.com/userChandru/Leetcode/tree/master/3194-find-words-containing-character) |
 | [3321-type-of-triangle](https://github.com/userChandru/Leetcode/tree/master/3321-type-of-triangle) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/userChandru/Leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
