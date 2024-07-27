@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/userChandru/Leetcode/tree/master/0001-two-sum) |
 | [0066-plus-one](https://github.com/userChandru/Leetcode/tree/master/0066-plus-one) |
+| [1284-four-divisors](https://github.com/userChandru/Leetcode/tree/master/1284-four-divisors) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/userChandru/Leetcode/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/userChandru/Leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/userChandru/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -50,6 +51,7 @@
 | [0066-plus-one](https://github.com/userChandru/Leetcode/tree/master/0066-plus-one) |
 | [0202-happy-number](https://github.com/userChandru/Leetcode/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/userChandru/Leetcode/tree/master/0258-add-digits) |
+| [1284-four-divisors](https://github.com/userChandru/Leetcode/tree/master/1284-four-divisors) |
 | [1635-number-of-good-pairs](https://github.com/userChandru/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [2083-three-divisors](https://github.com/userChandru/Leetcode/tree/master/2083-three-divisors) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/userChandru/Leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
