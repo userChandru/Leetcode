@@ -7,12 +7,7 @@ char* tictactoe(int** moves, int movesSize, int* movesColSize) {
         else
             arr[moves[i][0]][moves[i][1]]=2;
     }
-    for(int i=0;i<3;i++){
-    for(int j=0;j<3;j++){
-        printf("%d\t",arr[i][j]);
-    }
-    printf("\n");
-}
+
     for(int i=0; i<3; i++){
         if(arr[i][0]==arr[i][1] && arr[i][1]==arr[i][2]){
             if(arr[i][0]==1) return"A";
