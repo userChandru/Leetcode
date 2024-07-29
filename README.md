@@ -83,6 +83,7 @@
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/userChandru/Leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/userChandru/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2391-strong-password-checker-ii](https://github.com/userChandru/Leetcode/tree/master/2391-strong-password-checker-ii) |
+| [2528-number-of-valid-clock-times](https://github.com/userChandru/Leetcode/tree/master/2528-number-of-valid-clock-times) |
 | [2589-maximum-value-of-a-string-in-an-array](https://github.com/userChandru/Leetcode/tree/master/2589-maximum-value-of-a-string-in-an-array) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/userChandru/Leetcode/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [3194-find-words-containing-character](https://github.com/userChandru/Leetcode/tree/master/3194-find-words-containing-character) |
@@ -107,6 +108,7 @@
 |  |
 | ------- |
 | [2083-three-divisors](https://github.com/userChandru/Leetcode/tree/master/2083-three-divisors) |
+| [2528-number-of-valid-clock-times](https://github.com/userChandru/Leetcode/tree/master/2528-number-of-valid-clock-times) |
 | [3361-latest-time-you-can-obtain-after-replacing-characters](https://github.com/userChandru/Leetcode/tree/master/3361-latest-time-you-can-obtain-after-replacing-characters) |
 ## Sliding Window
 |  |
