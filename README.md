@@ -57,6 +57,7 @@
 | [0258-add-digits](https://github.com/userChandru/Leetcode/tree/master/0258-add-digits) |
 | [1284-four-divisors](https://github.com/userChandru/Leetcode/tree/master/1284-four-divisors) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/userChandru/Leetcode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/userChandru/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1635-number-of-good-pairs](https://github.com/userChandru/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [2083-three-divisors](https://github.com/userChandru/Leetcode/tree/master/2083-three-divisors) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/userChandru/Leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
@@ -104,6 +105,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/userChandru/Leetcode/tree/master/0002-add-two-numbers) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/userChandru/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Recursion
 |  |
 | ------- |
