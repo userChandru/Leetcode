@@ -58,6 +58,7 @@
 | [0069-sqrtx](https://github.com/userChandru/Leetcode/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/userChandru/Leetcode/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/userChandru/Leetcode/tree/master/0258-add-digits) |
+| [0367-valid-perfect-square](https://github.com/userChandru/Leetcode/tree/master/0367-valid-perfect-square) |
 | [1284-four-divisors](https://github.com/userChandru/Leetcode/tree/master/1284-four-divisors) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/userChandru/Leetcode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/userChandru/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -176,4 +177,5 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/userChandru/Leetcode/tree/master/0069-sqrtx) |
+| [0367-valid-perfect-square](https://github.com/userChandru/Leetcode/tree/master/0367-valid-perfect-square) |
 <!---LeetCode Topics End-->
