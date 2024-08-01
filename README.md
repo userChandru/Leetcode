@@ -24,6 +24,7 @@
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/userChandru/Leetcode/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [2698-find-the-array-concatenation-value](https://github.com/userChandru/Leetcode/tree/master/2698-find-the-array-concatenation-value) |
 | [2714-left-and-right-sum-differences](https://github.com/userChandru/Leetcode/tree/master/2714-left-and-right-sum-differences) |
+| [2836-neither-minimum-nor-maximum](https://github.com/userChandru/Leetcode/tree/master/2836-neither-minimum-nor-maximum) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/userChandru/Leetcode/tree/master/2876-number-of-employees-who-met-the-target) |
 | [3194-find-words-containing-character](https://github.com/userChandru/Leetcode/tree/master/3194-find-words-containing-character) |
 | [3321-type-of-triangle](https://github.com/userChandru/Leetcode/tree/master/3321-type-of-triangle) |
@@ -130,6 +131,7 @@
 | ------- |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/userChandru/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/userChandru/Leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+| [2836-neither-minimum-nor-maximum](https://github.com/userChandru/Leetcode/tree/master/2836-neither-minimum-nor-maximum) |
 | [3321-type-of-triangle](https://github.com/userChandru/Leetcode/tree/master/3321-type-of-triangle) |
 ## Prefix Sum
 |  |
