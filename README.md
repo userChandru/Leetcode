@@ -55,6 +55,7 @@
 | [0002-add-two-numbers](https://github.com/userChandru/Leetcode/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/userChandru/Leetcode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/userChandru/Leetcode/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/userChandru/Leetcode/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/userChandru/Leetcode/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/userChandru/Leetcode/tree/master/0258-add-digits) |
 | [1284-four-divisors](https://github.com/userChandru/Leetcode/tree/master/1284-four-divisors) |
@@ -171,4 +172,8 @@
 |  |
 | ------- |
 | [1908-recyclable-and-low-fat-products](https://github.com/userChandru/Leetcode/tree/master/1908-recyclable-and-low-fat-products) |
+## Binary Search
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/userChandru/Leetcode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
