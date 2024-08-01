@@ -25,6 +25,7 @@
 | [2698-find-the-array-concatenation-value](https://github.com/userChandru/Leetcode/tree/master/2698-find-the-array-concatenation-value) |
 | [2714-left-and-right-sum-differences](https://github.com/userChandru/Leetcode/tree/master/2714-left-and-right-sum-differences) |
 | [2836-neither-minimum-nor-maximum](https://github.com/userChandru/Leetcode/tree/master/2836-neither-minimum-nor-maximum) |
+| [2844-sum-of-squares-of-special-elements](https://github.com/userChandru/Leetcode/tree/master/2844-sum-of-squares-of-special-elements) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/userChandru/Leetcode/tree/master/2876-number-of-employees-who-met-the-target) |
 | [3194-find-words-containing-character](https://github.com/userChandru/Leetcode/tree/master/3194-find-words-containing-character) |
 | [3321-type-of-triangle](https://github.com/userChandru/Leetcode/tree/master/3321-type-of-triangle) |
@@ -124,6 +125,7 @@
 | ------- |
 | [2083-three-divisors](https://github.com/userChandru/Leetcode/tree/master/2083-three-divisors) |
 | [2528-number-of-valid-clock-times](https://github.com/userChandru/Leetcode/tree/master/2528-number-of-valid-clock-times) |
+| [2844-sum-of-squares-of-special-elements](https://github.com/userChandru/Leetcode/tree/master/2844-sum-of-squares-of-special-elements) |
 | [3361-latest-time-you-can-obtain-after-replacing-characters](https://github.com/userChandru/Leetcode/tree/master/3361-latest-time-you-can-obtain-after-replacing-characters) |
 ## Sliding Window
 |  |
