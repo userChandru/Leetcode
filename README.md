@@ -185,6 +185,11 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/userChandru/Leetcode/tree/master/0069-sqrtx) |
+| [0278-first-bad-version](https://github.com/userChandru/Leetcode/tree/master/0278-first-bad-version) |
 | [0367-valid-perfect-square](https://github.com/userChandru/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0633-sum-of-square-numbers](https://github.com/userChandru/Leetcode/tree/master/0633-sum-of-square-numbers) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/userChandru/Leetcode/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
