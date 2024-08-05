@@ -9,6 +9,7 @@
 | [0035-search-insert-position](https://github.com/userChandru/Leetcode/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/userChandru/Leetcode/tree/master/0066-plus-one) |
 | [0283-move-zeroes](https://github.com/userChandru/Leetcode/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/userChandru/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0792-binary-search](https://github.com/userChandru/Leetcode/tree/master/0792-binary-search) |
 | [1284-four-divisors](https://github.com/userChandru/Leetcode/tree/master/1284-four-divisors) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/userChandru/Leetcode/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
@@ -43,6 +44,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/userChandru/Leetcode/tree/master/0001-two-sum) |
 | [0202-happy-number](https://github.com/userChandru/Leetcode/tree/master/0202-happy-number) |
+| [0349-intersection-of-two-arrays](https://github.com/userChandru/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0782-jewels-and-stones](https://github.com/userChandru/Leetcode/tree/master/0782-jewels-and-stones) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/userChandru/Leetcode/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/userChandru/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -147,6 +149,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0349-intersection-of-two-arrays](https://github.com/userChandru/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/userChandru/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/userChandru/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/userChandru/Leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
@@ -170,6 +173,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/userChandru/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0202-happy-number](https://github.com/userChandru/Leetcode/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/userChandru/Leetcode/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/userChandru/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/userChandru/Leetcode/tree/master/0392-is-subsequence) |
 | [0633-sum-of-square-numbers](https://github.com/userChandru/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [2634-minimum-common-value](https://github.com/userChandru/Leetcode/tree/master/2634-minimum-common-value) |
@@ -200,6 +204,7 @@
 | [0035-search-insert-position](https://github.com/userChandru/Leetcode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/userChandru/Leetcode/tree/master/0069-sqrtx) |
 | [0278-first-bad-version](https://github.com/userChandru/Leetcode/tree/master/0278-first-bad-version) |
+| [0349-intersection-of-two-arrays](https://github.com/userChandru/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0367-valid-perfect-square](https://github.com/userChandru/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/userChandru/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [0633-sum-of-square-numbers](https://github.com/userChandru/Leetcode/tree/master/0633-sum-of-square-numbers) |
