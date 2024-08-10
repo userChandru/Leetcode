@@ -56,6 +56,7 @@
 | [1635-number-of-good-pairs](https://github.com/userChandru/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [2634-minimum-common-value](https://github.com/userChandru/Leetcode/tree/master/2634-minimum-common-value) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/userChandru/Leetcode/tree/master/3349-maximum-length-substring-with-two-occurrences) |
+| [3412-permutation-difference-between-two-strings](https://github.com/userChandru/Leetcode/tree/master/3412-permutation-difference-between-two-strings) |
 ## Simulation
 |  |
 | ------- |
@@ -125,6 +126,7 @@
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/userChandru/Leetcode/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 | [3361-latest-time-you-can-obtain-after-replacing-characters](https://github.com/userChandru/Leetcode/tree/master/3361-latest-time-you-can-obtain-after-replacing-characters) |
 | [3379-score-of-a-string](https://github.com/userChandru/Leetcode/tree/master/3379-score-of-a-string) |
+| [3412-permutation-difference-between-two-strings](https://github.com/userChandru/Leetcode/tree/master/3412-permutation-difference-between-two-strings) |
 ## Matrix
 |  |
 | ------- |
