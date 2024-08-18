@@ -11,6 +11,7 @@
 | [0118-pascals-triangle](https://github.com/userChandru/Leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/userChandru/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0136-single-number](https://github.com/userChandru/Leetcode/tree/master/0136-single-number) |
+| [0217-contains-duplicate](https://github.com/userChandru/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/userChandru/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/userChandru/Leetcode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/userChandru/Leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -54,6 +55,7 @@
 | [0001-two-sum](https://github.com/userChandru/Leetcode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/userChandru/Leetcode/tree/master/0013-roman-to-integer) |
 | [0202-happy-number](https://github.com/userChandru/Leetcode/tree/master/0202-happy-number) |
+| [0217-contains-duplicate](https://github.com/userChandru/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/userChandru/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/userChandru/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/userChandru/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -180,6 +182,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/userChandru/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/userChandru/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/userChandru/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/userChandru/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
