@@ -99,6 +99,7 @@
 | [0050-powx-n](https://github.com/userChandru/Leetcode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/userChandru/Leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/userChandru/Leetcode/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/userChandru/Leetcode/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/userChandru/Leetcode/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/userChandru/Leetcode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/userChandru/Leetcode/tree/master/0268-missing-number) |
@@ -251,6 +252,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/userChandru/Leetcode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/userChandru/Leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/userChandru/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0338-counting-bits](https://github.com/userChandru/Leetcode/tree/master/0338-counting-bits) |
@@ -317,6 +319,7 @@
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/userChandru/Leetcode/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/userChandru/Leetcode/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/userChandru/Leetcode/tree/master/1236-n-th-tribonacci-number) |
 ## Brainteaser
