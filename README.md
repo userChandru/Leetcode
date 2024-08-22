@@ -106,6 +106,7 @@
 | [0633-sum-of-square-numbers](https://github.com/userChandru/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0650-2-keys-keyboard](https://github.com/userChandru/Leetcode/tree/master/0650-2-keys-keyboard) |
 | [1013-fibonacci-number](https://github.com/userChandru/Leetcode/tree/master/1013-fibonacci-number) |
+| [1086-divisor-game](https://github.com/userChandru/Leetcode/tree/master/1086-divisor-game) |
 | [1284-four-divisors](https://github.com/userChandru/Leetcode/tree/master/1284-four-divisors) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/userChandru/Leetcode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/userChandru/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -254,6 +255,7 @@
 | [0392-is-subsequence](https://github.com/userChandru/Leetcode/tree/master/0392-is-subsequence) |
 | [0650-2-keys-keyboard](https://github.com/userChandru/Leetcode/tree/master/0650-2-keys-keyboard) |
 | [1013-fibonacci-number](https://github.com/userChandru/Leetcode/tree/master/1013-fibonacci-number) |
+| [1086-divisor-game](https://github.com/userChandru/Leetcode/tree/master/1086-divisor-game) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -313,4 +315,12 @@
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/userChandru/Leetcode/tree/master/1013-fibonacci-number) |
+## Brainteaser
+|  |
+| ------- |
+| [1086-divisor-game](https://github.com/userChandru/Leetcode/tree/master/1086-divisor-game) |
+## Game Theory
+|  |
+| ------- |
+| [1086-divisor-game](https://github.com/userChandru/Leetcode/tree/master/1086-divisor-game) |
 <!---LeetCode Topics End-->
