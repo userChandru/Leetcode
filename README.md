@@ -146,6 +146,7 @@
 | ------- |
 | [0013-roman-to-integer](https://github.com/userChandru/Leetcode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/userChandru/Leetcode/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/userChandru/Leetcode/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/userChandru/Leetcode/tree/master/0058-length-of-last-word) |
 | [0389-find-the-difference](https://github.com/userChandru/Leetcode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/userChandru/Leetcode/tree/master/0392-is-subsequence) |
@@ -335,4 +336,8 @@
 | ------- |
 | [0292-nim-game](https://github.com/userChandru/Leetcode/tree/master/0292-nim-game) |
 | [1086-divisor-game](https://github.com/userChandru/Leetcode/tree/master/1086-divisor-game) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/userChandru/Leetcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
