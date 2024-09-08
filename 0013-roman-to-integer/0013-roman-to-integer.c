@@ -16,7 +16,6 @@ int romanToInt(char* s) {
             num -= roman[s[i]-'A'];
         else
             num += roman[s[i]-'A'];
-
-    num += roman[s[strlen(s) - 1]-'A'];
+    num += roman[s[strlen(s)-1]-'A'];
     return num;
 }
