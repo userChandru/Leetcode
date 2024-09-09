@@ -9,6 +9,7 @@
 | [0027-remove-element](https://github.com/userChandru/Leetcode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/userChandru/Leetcode/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/userChandru/Leetcode/tree/master/0041-first-missing-positive) |
+| [0054-spiral-matrix](https://github.com/userChandru/Leetcode/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/userChandru/Leetcode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/userChandru/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/userChandru/Leetcode/tree/master/0118-pascals-triangle) |
@@ -87,6 +88,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/userChandru/Leetcode/tree/master/0054-spiral-matrix) |
 | [0258-add-digits](https://github.com/userChandru/Leetcode/tree/master/0258-add-digits) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/userChandru/Leetcode/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [2048-build-array-from-permutation](https://github.com/userChandru/Leetcode/tree/master/2048-build-array-from-permutation) |
@@ -185,6 +187,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/userChandru/Leetcode/tree/master/0054-spiral-matrix) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/userChandru/Leetcode/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/userChandru/Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1791-richest-customer-wealth](https://github.com/userChandru/Leetcode/tree/master/1791-richest-customer-wealth) |
