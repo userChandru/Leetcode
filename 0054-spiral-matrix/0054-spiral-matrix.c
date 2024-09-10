@@ -14,16 +14,27 @@ int* spiralOrder(int** matrix, int matrixSize, int* matrixColSize, int* returnSi
         for(int i=t; i<b; i++)
             ans[idx++]=matrix[i][r-1];
         r--;
-        if(t<b){
-            for(int i=r-1; i>=l; i--)
-                ans[idx++]=matrix[b-1][i];
-            b--;
-        }
-        if(l<r){
-            for(int i=b-1; i>=t; i--)
-                ans[idx++]=matrix[i][l];
-            l++;
-        }
+        
+        if(t>=b || l>=r) break;
+        
+        for(int i=r-1; i>=l; i--)
+            ans[idx++]=matrix[b-1][i];
+        b--;
+    
+        for(int i=b-1; i>=t; i--)
+            ans[idx++]=matrix[i][l];
+        l++;
+
+        // if(t<b){
+        //     for(int i=r-1; i>=l; i--)
+        //         ans[idx++]=matrix[b-1][i];
+        //     b--;
+        // }
+        // if(l<r){
+        //     for(int i=b-1; i>=t; i--)
+        //         ans[idx++]=matrix[i][l];
+        //     l++;
+        // }
     }
     return ans;
 }
