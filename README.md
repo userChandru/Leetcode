@@ -49,6 +49,7 @@
 | [2324-find-triangular-sum-of-an-array](https://github.com/userChandru/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2350-find-closest-number-to-zero](https://github.com/userChandru/Leetcode/tree/master/2350-find-closest-number-to-zero) |
 | [2454-largest-local-values-in-a-matrix](https://github.com/userChandru/Leetcode/tree/master/2454-largest-local-values-in-a-matrix) |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/userChandru/Leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2589-maximum-value-of-a-string-in-an-array](https://github.com/userChandru/Leetcode/tree/master/2589-maximum-value-of-a-string-in-an-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/userChandru/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2634-minimum-common-value](https://github.com/userChandru/Leetcode/tree/master/2634-minimum-common-value) |
@@ -302,6 +303,7 @@
 | [0389-find-the-difference](https://github.com/userChandru/Leetcode/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/userChandru/Leetcode/tree/master/0645-set-mismatch) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/userChandru/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/userChandru/Leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 ## Database
 |  |
 | ------- |
@@ -360,6 +362,7 @@
 | ------- |
 | [0292-nim-game](https://github.com/userChandru/Leetcode/tree/master/0292-nim-game) |
 | [1086-divisor-game](https://github.com/userChandru/Leetcode/tree/master/1086-divisor-game) |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/userChandru/Leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 ## Game Theory
 |  |
 | ------- |
