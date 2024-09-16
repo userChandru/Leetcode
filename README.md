@@ -118,6 +118,7 @@
 | [0070-climbing-stairs](https://github.com/userChandru/Leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/userChandru/Leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/userChandru/Leetcode/tree/master/0202-happy-number) |
+| [0231-power-of-two](https://github.com/userChandru/Leetcode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/userChandru/Leetcode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/userChandru/Leetcode/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/userChandru/Leetcode/tree/master/0268-missing-number) |
@@ -209,6 +210,7 @@
 | [0002-add-two-numbers](https://github.com/userChandru/Leetcode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/userChandru/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/userChandru/Leetcode/tree/master/0050-powx-n) |
+| [0231-power-of-two](https://github.com/userChandru/Leetcode/tree/master/0231-power-of-two) |
 | [1013-fibonacci-number](https://github.com/userChandru/Leetcode/tree/master/1013-fibonacci-number) |
 ## Enumeration
 |  |
@@ -297,6 +299,7 @@
 | ------- |
 | [0029-divide-two-integers](https://github.com/userChandru/Leetcode/tree/master/0029-divide-two-integers) |
 | [0136-single-number](https://github.com/userChandru/Leetcode/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/userChandru/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/userChandru/Leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/userChandru/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/userChandru/Leetcode/tree/master/0338-counting-bits) |
