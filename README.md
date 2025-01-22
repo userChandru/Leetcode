@@ -77,6 +77,7 @@
 | [0268-missing-number](https://github.com/userChandru/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/userChandru/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/userChandru/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0387-first-unique-character-in-a-string](https://github.com/userChandru/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/userChandru/Leetcode/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/userChandru/Leetcode/tree/master/0645-set-mismatch) |
 | [0782-jewels-and-stones](https://github.com/userChandru/Leetcode/tree/master/0782-jewels-and-stones) |
@@ -157,6 +158,7 @@
 ## Counting
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/userChandru/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/userChandru/Leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/userChandru/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/userChandru/Leetcode/tree/master/1635-number-of-good-pairs) |
@@ -170,6 +172,7 @@
 | [0020-valid-parentheses](https://github.com/userChandru/Leetcode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/userChandru/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/userChandru/Leetcode/tree/master/0058-length-of-last-word) |
+| [0387-first-unique-character-in-a-string](https://github.com/userChandru/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/userChandru/Leetcode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/userChandru/Leetcode/tree/master/0392-is-subsequence) |
 | [0782-jewels-and-stones](https://github.com/userChandru/Leetcode/tree/master/0782-jewels-and-stones) |
@@ -413,4 +416,5 @@
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/userChandru/Leetcode/tree/master/0225-implement-stack-using-queues) |
+| [0387-first-unique-character-in-a-string](https://github.com/userChandru/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
