@@ -19,6 +19,6 @@ class Solution {
             newNode.next = prev;
             prev = newNode;
         }
-        return prev;
+        return prev; 
     }
 }
