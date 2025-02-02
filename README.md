@@ -29,6 +29,7 @@
 | [0792-binary-search](https://github.com/userChandru/Leetcode/tree/master/0792-binary-search) |
 | [0932-monotonic-array](https://github.com/userChandru/Leetcode/tree/master/0932-monotonic-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/userChandru/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
+| [1036-rotting-oranges](https://github.com/userChandru/Leetcode/tree/master/1036-rotting-oranges) |
 | [1284-four-divisors](https://github.com/userChandru/Leetcode/tree/master/1284-four-divisors) |
 | [1325-path-with-maximum-probability](https://github.com/userChandru/Leetcode/tree/master/1325-path-with-maximum-probability) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/userChandru/Leetcode/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
@@ -201,6 +202,7 @@
 | ------- |
 | [0054-spiral-matrix](https://github.com/userChandru/Leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/userChandru/Leetcode/tree/master/0059-spiral-matrix-ii) |
+| [1036-rotting-oranges](https://github.com/userChandru/Leetcode/tree/master/1036-rotting-oranges) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/userChandru/Leetcode/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/userChandru/Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1791-richest-customer-wealth](https://github.com/userChandru/Leetcode/tree/master/1791-richest-customer-wealth) |
@@ -464,4 +466,5 @@
 | [0111-minimum-depth-of-binary-tree](https://github.com/userChandru/Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/userChandru/Leetcode/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/userChandru/Leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [1036-rotting-oranges](https://github.com/userChandru/Leetcode/tree/master/1036-rotting-oranges) |
 <!---LeetCode Topics End-->
