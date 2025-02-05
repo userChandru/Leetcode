@@ -10,6 +10,7 @@
 | [0035-search-insert-position](https://github.com/userChandru/Leetcode/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/userChandru/Leetcode/tree/master/0041-first-missing-positive) |
 | [0054-spiral-matrix](https://github.com/userChandru/Leetcode/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/userChandru/Leetcode/tree/master/0055-jump-game) |
 | [0059-spiral-matrix-ii](https://github.com/userChandru/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/userChandru/Leetcode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/userChandru/Leetcode/tree/master/0088-merge-sorted-array) |
@@ -269,6 +270,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/userChandru/Leetcode/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/userChandru/Leetcode/tree/master/0134-gas-station) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/userChandru/Leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/userChandru/Leetcode/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
@@ -308,6 +310,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/userChandru/Leetcode/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/userChandru/Leetcode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/userChandru/Leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/userChandru/Leetcode/tree/master/0119-pascals-triangle-ii) |
