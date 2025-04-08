@@ -22,6 +22,7 @@ class Solution {
             return -1;
         int time = -1;
         while(!rottenQueue.isEmpty()){
+            time++;
             int size=rottenQueue.size();
             for(int i=0; i<size; i++){
                 int curr[] = rottenQueue.poll();
@@ -38,7 +39,6 @@ class Solution {
                     rottenQueue.add(new int[]{nR, nC});
                 }
             }
-            time++;
         }
         for(int i = 0; i<Row; i++)
             for(int j=0; j<Col; j++)
