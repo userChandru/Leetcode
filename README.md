@@ -29,6 +29,7 @@
 | [0419-battleships-in-a-board](https://github.com/userChandru/Leetcode/tree/master/0419-battleships-in-a-board) |
 | [0645-set-mismatch](https://github.com/userChandru/Leetcode/tree/master/0645-set-mismatch) |
 | [0695-max-area-of-island](https://github.com/userChandru/Leetcode/tree/master/0695-max-area-of-island) |
+| [0724-find-pivot-index](https://github.com/userChandru/Leetcode/tree/master/0724-find-pivot-index) |
 | [0747-min-cost-climbing-stairs](https://github.com/userChandru/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [0792-binary-search](https://github.com/userChandru/Leetcode/tree/master/0792-binary-search) |
 | [0932-monotonic-array](https://github.com/userChandru/Leetcode/tree/master/0932-monotonic-array) |
@@ -277,6 +278,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0724-find-pivot-index](https://github.com/userChandru/Leetcode/tree/master/0724-find-pivot-index) |
 | [1603-running-sum-of-1d-array](https://github.com/userChandru/Leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [2714-left-and-right-sum-differences](https://github.com/userChandru/Leetcode/tree/master/2714-left-and-right-sum-differences) |
 ## Greedy
