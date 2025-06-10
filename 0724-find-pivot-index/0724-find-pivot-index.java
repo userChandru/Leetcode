@@ -9,8 +9,6 @@ class Solution {
             if(sum==total)
                 return idx;
             sum += arr[idx];
-            // if(sum > total)
-            //     return -1;
         }
         return -1;
     }
