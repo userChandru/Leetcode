@@ -9,6 +9,7 @@
 | [0027-remove-element](https://github.com/userChandru/Leetcode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/userChandru/Leetcode/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/userChandru/Leetcode/tree/master/0041-first-missing-positive) |
+| [0045-jump-game-ii](https://github.com/userChandru/Leetcode/tree/master/0045-jump-game-ii) |
 | [0054-spiral-matrix](https://github.com/userChandru/Leetcode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/userChandru/Leetcode/tree/master/0055-jump-game) |
 | [0059-spiral-matrix-ii](https://github.com/userChandru/Leetcode/tree/master/0059-spiral-matrix-ii) |
@@ -286,6 +287,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/userChandru/Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/userChandru/Leetcode/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/userChandru/Leetcode/tree/master/0134-gas-station) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/userChandru/Leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
@@ -328,6 +330,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/userChandru/Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0045-jump-game-ii](https://github.com/userChandru/Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/userChandru/Leetcode/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/userChandru/Leetcode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/userChandru/Leetcode/tree/master/0118-pascals-triangle) |
