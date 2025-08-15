@@ -25,8 +25,7 @@ class Solution {
             curr=curr.next;
             if(curr!=null)
                 nex=curr.next;
-            else
-                nex=null;
+
         }
         return head;
     }
