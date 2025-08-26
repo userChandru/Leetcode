@@ -1,43 +1,36 @@
 class Solution {
+    HashMap<Character, Character[]> map;
+    List<String> ans;
+    StringBuilder temp;
 
-    static HashMap<Integer, String> map;
-
-    private void addNumber(){
-        map = new HashMap<>();
-            map.put(2,"abc");
-            map.put(3,"def");
-            map.put(4,"ghi");
-            map.put(5,"jkl");
-            map.put(6,"mno");
-            map.put(7,"pqrs");
-            map.put(8,"tuv");
-            map.put(9,"wxyz");
-    }
-    private void helper(List<String> ans, int num){
-        if(ans.isEmpty())
-            for(char ch : map.get(num).toCharArray())
-                ans.add(Character.toString(ch));
-        else {
-            int size= ans.size();
-            while(size--!=0){
-                String temp = ans.remove(0);;
-                for(char ch : map.get(num).toCharArray())
-                    ans.add(temp.concat(Character.toString(ch)));
+    public void helper(String digits, int i) {
+        if (temp.length() == digits.length())
+            ans.add(temp.toString());
+        else
+            for (Character c : map.get(digits.charAt(i))) {
+                temp.append(c);
+                helper(digits, i + 1);
+                temp.deleteCharAt(temp.length() - 1);
             }
-        }
     }
-    
+
     public List<String> letterCombinations(String digits) {
-        this.addNumber();
-        List<String> ans=new LinkedList<>();
-        if (digits.length()==0)
+        ans = new LinkedList<String>();
+        map = new HashMap<>();
+        temp = new StringBuilder();
+
+        if(digits.length()==0)
             return ans;
 
-        for(char ch: digits.toCharArray()){
-            int num = ch -'0';
-            this.helper(ans, num);
-        }
-        System.out.println(ans);
+        map.put('2', new Character[] { 'a', 'b', 'c' });
+        map.put('3', new Character[] { 'd', 'e', 'f' });
+        map.put('4', new Character[] { 'g', 'h', 'i' });
+        map.put('5', new Character[] { 'j', 'k', 'l' });
+        map.put('6', new Character[] { 'm', 'n', 'o' });
+        map.put('7', new Character[] { 'p', 'q', 'r', 's' });
+        map.put('8', new Character[] { 't', 'u', 'v' });
+        map.put('9', new Character[] { 'w', 'x', 'y', 'z' });
+        this.helper(digits, 0);
         return ans;
     }
 }
