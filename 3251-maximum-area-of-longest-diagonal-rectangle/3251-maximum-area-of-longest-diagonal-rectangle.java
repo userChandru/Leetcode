@@ -2,14 +2,17 @@ class Solution {
     public int areaOfMaxDiagonal(int[][] dimensions) {
         int maxDiag = 0;
         int area = 0;
+        int x, y, curr, areaa;
         for (int[] dim : dimensions) {
-            int x = dim[0], y = dim[1];
-            int curr = x * x + y * y;
+            x = dim[0];
+            y = dim[1];
+            curr = x * x + y * y;
+            areaa = x * y;
             if (maxDiag < curr) {
                 maxDiag = curr;
-                area = x * y;
+                area = areaa;
             } else if (maxDiag == curr)
-                area = Math.max(area, x * y);
+                area = Math.max(area, areaa);
         }
         return area;
     }
