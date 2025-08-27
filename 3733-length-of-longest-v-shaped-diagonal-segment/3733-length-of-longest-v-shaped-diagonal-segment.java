@@ -2,7 +2,7 @@ class Solution {
     int[][][][] dp;
     int[][] dirs = { { -1, -1 }, { -1, 1 }, { 1, 1 }, { 1, -1 } };
     int r, c;
-
+    int search=2;
     public int helper(int[][] grid, int x, int y, int dir, int flip, int check) {
         int nx = x + dirs[dir][0];
         int ny = y + dirs[dir][1];
