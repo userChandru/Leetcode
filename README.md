@@ -38,6 +38,7 @@
 | [0932-monotonic-array](https://github.com/userChandru/Leetcode/tree/master/0932-monotonic-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/userChandru/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1036-rotting-oranges](https://github.com/userChandru/Leetcode/tree/master/1036-rotting-oranges) |
+| [1253-sort-the-matrix-diagonally](https://github.com/userChandru/Leetcode/tree/master/1253-sort-the-matrix-diagonally) |
 | [1284-four-divisors](https://github.com/userChandru/Leetcode/tree/master/1284-four-divisors) |
 | [1325-path-with-maximum-probability](https://github.com/userChandru/Leetcode/tree/master/1325-path-with-maximum-probability) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/userChandru/Leetcode/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
@@ -240,6 +241,7 @@
 | [0419-battleships-in-a-board](https://github.com/userChandru/Leetcode/tree/master/0419-battleships-in-a-board) |
 | [0695-max-area-of-island](https://github.com/userChandru/Leetcode/tree/master/0695-max-area-of-island) |
 | [1036-rotting-oranges](https://github.com/userChandru/Leetcode/tree/master/1036-rotting-oranges) |
+| [1253-sort-the-matrix-diagonally](https://github.com/userChandru/Leetcode/tree/master/1253-sort-the-matrix-diagonally) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/userChandru/Leetcode/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/userChandru/Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1791-richest-customer-wealth](https://github.com/userChandru/Leetcode/tree/master/1791-richest-customer-wealth) |
@@ -300,6 +302,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/userChandru/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/userChandru/Leetcode/tree/master/0645-set-mismatch) |
 | [1019-squares-of-a-sorted-array](https://github.com/userChandru/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
+| [1253-sort-the-matrix-diagonally](https://github.com/userChandru/Leetcode/tree/master/1253-sort-the-matrix-diagonally) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/userChandru/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/userChandru/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/userChandru/Leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
