@@ -10,6 +10,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/userChandru/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/userChandru/Leetcode/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/userChandru/Leetcode/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/userChandru/Leetcode/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/userChandru/Leetcode/tree/master/0041-first-missing-positive) |
 | [0045-jump-game-ii](https://github.com/userChandru/Leetcode/tree/master/0045-jump-game-ii) |
 | [0054-spiral-matrix](https://github.com/userChandru/Leetcode/tree/master/0054-spiral-matrix) |
@@ -93,6 +94,7 @@
 | [0013-roman-to-integer](https://github.com/userChandru/Leetcode/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/userChandru/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0036-valid-sudoku](https://github.com/userChandru/Leetcode/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/userChandru/Leetcode/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/userChandru/Leetcode/tree/master/0041-first-missing-positive) |
 | [0160-intersection-of-two-linked-lists](https://github.com/userChandru/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/userChandru/Leetcode/tree/master/0202-happy-number) |
@@ -238,6 +240,7 @@
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/userChandru/Leetcode/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/userChandru/Leetcode/tree/master/0037-sudoku-solver) |
 | [0054-spiral-matrix](https://github.com/userChandru/Leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/userChandru/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0200-number-of-islands](https://github.com/userChandru/Leetcode/tree/master/0200-number-of-islands) |
@@ -451,6 +454,7 @@
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/userChandru/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/userChandru/Leetcode/tree/master/0022-generate-parentheses) |
+| [0037-sudoku-solver](https://github.com/userChandru/Leetcode/tree/master/0037-sudoku-solver) |
 | [0813-all-paths-from-source-to-target](https://github.com/userChandru/Leetcode/tree/master/0813-all-paths-from-source-to-target) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/userChandru/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/userChandru/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
