@@ -42,18 +42,19 @@ class Solution {
             return;
         }
 
-        if (j == 9){
+        if (j == 9) {
             helper(i + 1, 0);
             return;
         }
-        if (grid[i][j] != '.'){
+        // System.out.print\n("i:"+i +" j:"+j);
+        if (grid[i][j] != '.') {
             helper(i, j + 1);
             return;
         }
 
         for (int k = 1; k <= 9; k++) {
             if (checker(i, j, k)) {
-                ans[i][j] =(char)( k +'0');
+                ans[i][j] = (char) (k + '0');
                 marker(i, j, k);
                 helper(i, j + 1);
                 if (found)
@@ -91,7 +92,7 @@ class Solution {
             }
         }
         helper(0, 0);
-        idx=0;
+        idx = 0;
         for (char[] t : ans)
             board[idx++] = t.clone();
     }
