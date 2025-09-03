@@ -9,15 +9,15 @@ class Solution {
         int n = points.length;
 
         for (int i = 0; i < n; i++) {
-            int tempY = points[i][1];
-            int minY = Integer.MIN_VALUE;
+            int curr = points[i][1];
+            int min = Integer.MIN_VALUE;
 
             for (int j = i + 1; j < n; j++) {
-                int currY = points[j][1];
-                if (currY <= tempY && currY > minY) {
+                int temp = points[j][1];
+                if (temp <= curr && temp > min) {
                     count++;
-                    minY = currY;
-                    if (currY == tempY) 
+                    min = temp;
+                    if (temp == curr) 
                         break;
                 }
             }
