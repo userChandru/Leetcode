@@ -5,22 +5,23 @@ class Solution {
             return a[0] - b[0];
         });
         
-        int pairCount = 0;
+        int count = 0;
         int n = points.length;
 
         for (int i = 0; i < n; i++) {
-            int upperY = points[i][1];
-            int lowerYLimit = Integer.MIN_VALUE;
+            int tempY = points[i][1];
+            int minY = Integer.MIN_VALUE;
 
             for (int j = i + 1; j < n; j++) {
-                int currentY = points[j][1];
-                if (currentY <= upperY && currentY > lowerYLimit) {
-                    pairCount++;
-                    lowerYLimit = currentY;
-                    if (currentY == upperY) break;
+                int currY = points[j][1];
+                if (currY <= tempY && currY > minY) {
+                    count++;
+                    minY = currY;
+                    if (currY == tempY) 
+                        break;
                 }
             }
         }
-        return pairCount;
+        return count;
     }
 }
