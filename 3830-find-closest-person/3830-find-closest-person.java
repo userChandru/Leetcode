@@ -3,16 +3,10 @@ class Solution {
     {
         int a = Math.abs(z-x);
         int b = Math.abs(z-y);
-        if(a==b){
-            System.gc();
+        if(a==b)
             return 0;
-        }
-        if(a<b) {
-
-            System.gc();
+        if(a<b) 
             return 1;
-        }
-        System.gc();
         return 2;
     }
 }
