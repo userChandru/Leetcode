@@ -194,6 +194,7 @@
 | [3371-harshad-number](https://github.com/userChandru/Leetcode/tree/master/3371-harshad-number) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/userChandru/Leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3511-find-the-winning-player-in-coin-game](https://github.com/userChandru/Leetcode/tree/master/3511-find-the-winning-player-in-coin-game) |
+| [3830-find-closest-person](https://github.com/userChandru/Leetcode/tree/master/3830-find-closest-person) |
 ## Counting
 |  |
 | ------- |
