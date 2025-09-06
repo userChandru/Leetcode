@@ -87,6 +87,7 @@
 | [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/userChandru/Leetcode/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/userChandru/Leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/userChandru/Leetcode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
+| [3744-minimum-operations-to-make-array-elements-zero](https://github.com/userChandru/Leetcode/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3748-sort-matrix-by-diagonals](https://github.com/userChandru/Leetcode/tree/master/3748-sort-matrix-by-diagonals) |
 ## Hash Table
 |  |
@@ -195,6 +196,7 @@
 | [3371-harshad-number](https://github.com/userChandru/Leetcode/tree/master/3371-harshad-number) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/userChandru/Leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3511-find-the-winning-player-in-coin-game](https://github.com/userChandru/Leetcode/tree/master/3511-find-the-winning-player-in-coin-game) |
+| [3744-minimum-operations-to-make-array-elements-zero](https://github.com/userChandru/Leetcode/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3830-find-closest-person](https://github.com/userChandru/Leetcode/tree/master/3830-find-closest-person) |
 ## Counting
 |  |
@@ -418,6 +420,7 @@
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/userChandru/Leetcode/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/userChandru/Leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/userChandru/Leetcode/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
+| [3744-minimum-operations-to-make-array-elements-zero](https://github.com/userChandru/Leetcode/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 ## Database
 |  |
 | ------- |
