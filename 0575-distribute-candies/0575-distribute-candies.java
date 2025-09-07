@@ -3,7 +3,6 @@ class Solution {
         HashSet<Integer> hs = new HashSet<>();
         for (int c : candyType)
             hs.add(c);
-        int n = candyType.length, c = hs.size();
-        return c < n / 2 ? c : n / 2;
+        return Math.min(hs.size(), candyType.length / 2);
     }
 }
