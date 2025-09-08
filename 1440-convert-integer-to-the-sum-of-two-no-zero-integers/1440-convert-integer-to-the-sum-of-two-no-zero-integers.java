@@ -1,10 +1,16 @@
 class Solution {
-    public int[] getNoZeroIntegers(int n) {
-        for (int i = 1; i < n; i++) {
-            int j = n - i;
-            if (!String.valueOf(i).contains("0") && !String.valueOf(j).contains("0"))
-                return new int[]{i, j};
+    public boolean helper(int n){
+        while(n>0){
+            if(n%10==0)
+                return false;
+            n/=10;
         }
+        return true;
+    }
+    public int[] getNoZeroIntegers(int n) {
+        for (int i = 1; i < n; i++)
+            if (helper(i) && helper(n-i) )
+                return new int[]{i, n-i};
         return new int[0];
     }
 }
