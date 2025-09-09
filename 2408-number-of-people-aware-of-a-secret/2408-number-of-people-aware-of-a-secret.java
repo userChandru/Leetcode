@@ -14,7 +14,7 @@ class Solution {
         }
 
         for (int i = n - forget + 1; i <= n; i++)
-            if (i >= 1)
+            if (i > 0)
                 ans = (ans + dp[i]) % mod;
 
         return (int) ans;
