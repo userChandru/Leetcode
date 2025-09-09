@@ -3,21 +3,20 @@ class Solution {
         int mod = 1000000007;
         long[] dp = new long[n + 1];
         dp[1] = 1;
-        long peopleSharing = 0, result = 0;
+        long count = 0, ans = 0;
 
-        for (int day = 2; day <= n; day++) {
-            if (day - delay >= 1)
-                peopleSharing = (peopleSharing + dp[day - delay]) % mod;
-            if (day - forget >= 1) 
-                peopleSharing = (peopleSharing - dp[day - forget] + mod) % mod;
-            dp[day] = peopleSharing;
+        for (int i = 2; i <= n; i++) {
+            if (i > delay)
+                count = (count + dp[i - delay]) % mod;
+            if (i > forget)
+                count = (count - dp[i - forget] + mod) % mod;
+            dp[i] = count;
         }
 
-        for (int day = n - forget + 1; day <= n; day++)
-            if (day >= 1)
-                result = (result + dp[day]) % mod;
+        for (int i = n - forget + 1; i <= n; i++)
+            if (i >= 1)
+                ans = (ans + dp[i]) % mod;
 
-
-        return (int) result;
+        return (int) ans;
     }
 }
