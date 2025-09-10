@@ -55,6 +55,7 @@
 | [1603-running-sum-of-1d-array](https://github.com/userChandru/Leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1635-number-of-good-pairs](https://github.com/userChandru/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [1791-richest-customer-wealth](https://github.com/userChandru/Leetcode/tree/master/1791-richest-customer-wealth) |
+| [1834-minimum-number-of-people-to-teach](https://github.com/userChandru/Leetcode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1917-maximum-average-pass-ratio](https://github.com/userChandru/Leetcode/tree/master/1917-maximum-average-pass-ratio) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/userChandru/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2048-build-array-from-permutation](https://github.com/userChandru/Leetcode/tree/master/2048-build-array-from-permutation) |
@@ -117,6 +118,7 @@
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/userChandru/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/userChandru/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1635-number-of-good-pairs](https://github.com/userChandru/Leetcode/tree/master/1635-number-of-good-pairs) |
+| [1834-minimum-number-of-people-to-teach](https://github.com/userChandru/Leetcode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [2634-minimum-common-value](https://github.com/userChandru/Leetcode/tree/master/2634-minimum-common-value) |
 | [2791-find-the-losers-of-the-circular-game](https://github.com/userChandru/Leetcode/tree/master/2791-find-the-losers-of-the-circular-game) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/userChandru/Leetcode/tree/master/3349-maximum-length-substring-with-two-occurrences) |
@@ -353,6 +355,7 @@
 | [1341-split-a-string-in-balanced-strings](https://github.com/userChandru/Leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1448-maximum-69-number](https://github.com/userChandru/Leetcode/tree/master/1448-maximum-69-number) |
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/userChandru/Leetcode/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
+| [1834-minimum-number-of-people-to-teach](https://github.com/userChandru/Leetcode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1858-latest-time-by-replacing-hidden-digits](https://github.com/userChandru/Leetcode/tree/master/1858-latest-time-by-replacing-hidden-digits) |
 | [1917-maximum-average-pass-ratio](https://github.com/userChandru/Leetcode/tree/master/1917-maximum-average-pass-ratio) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/userChandru/Leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
