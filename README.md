@@ -202,6 +202,7 @@
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/userChandru/Leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3321-type-of-triangle](https://github.com/userChandru/Leetcode/tree/master/3321-type-of-triangle) |
 | [3371-harshad-number](https://github.com/userChandru/Leetcode/tree/master/3371-harshad-number) |
+| [3462-vowels-game-in-a-string](https://github.com/userChandru/Leetcode/tree/master/3462-vowels-game-in-a-string) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/userChandru/Leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3511-find-the-winning-player-in-coin-game](https://github.com/userChandru/Leetcode/tree/master/3511-find-the-winning-player-in-coin-game) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/userChandru/Leetcode/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
@@ -254,6 +255,7 @@
 | [3361-latest-time-you-can-obtain-after-replacing-characters](https://github.com/userChandru/Leetcode/tree/master/3361-latest-time-you-can-obtain-after-replacing-characters) |
 | [3379-score-of-a-string](https://github.com/userChandru/Leetcode/tree/master/3379-score-of-a-string) |
 | [3412-permutation-difference-between-two-strings](https://github.com/userChandru/Leetcode/tree/master/3412-permutation-difference-between-two-strings) |
+| [3462-vowels-game-in-a-string](https://github.com/userChandru/Leetcode/tree/master/3462-vowels-game-in-a-string) |
 ## Matrix
 |  |
 | ------- |
@@ -502,11 +504,13 @@
 | [1086-divisor-game](https://github.com/userChandru/Leetcode/tree/master/1086-divisor-game) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/userChandru/Leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/userChandru/Leetcode/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
+| [3462-vowels-game-in-a-string](https://github.com/userChandru/Leetcode/tree/master/3462-vowels-game-in-a-string) |
 ## Game Theory
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/userChandru/Leetcode/tree/master/0292-nim-game) |
 | [1086-divisor-game](https://github.com/userChandru/Leetcode/tree/master/1086-divisor-game) |
+| [3462-vowels-game-in-a-string](https://github.com/userChandru/Leetcode/tree/master/3462-vowels-game-in-a-string) |
 | [3511-find-the-winning-player-in-coin-game](https://github.com/userChandru/Leetcode/tree/master/3511-find-the-winning-player-in-coin-game) |
 ## Stack
 |  |
