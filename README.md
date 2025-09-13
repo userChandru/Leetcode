@@ -123,6 +123,7 @@
 | [2791-find-the-losers-of-the-circular-game](https://github.com/userChandru/Leetcode/tree/master/2791-find-the-losers-of-the-circular-game) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/userChandru/Leetcode/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 | [3412-permutation-difference-between-two-strings](https://github.com/userChandru/Leetcode/tree/master/3412-permutation-difference-between-two-strings) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/userChandru/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Simulation
 |  |
 | ------- |
@@ -215,6 +216,7 @@
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/userChandru/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/userChandru/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/userChandru/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/userChandru/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## String
 |  |
 | ------- |
@@ -256,6 +258,7 @@
 | [3379-score-of-a-string](https://github.com/userChandru/Leetcode/tree/master/3379-score-of-a-string) |
 | [3412-permutation-difference-between-two-strings](https://github.com/userChandru/Leetcode/tree/master/3412-permutation-difference-between-two-strings) |
 | [3462-vowels-game-in-a-string](https://github.com/userChandru/Leetcode/tree/master/3462-vowels-game-in-a-string) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/userChandru/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Matrix
 |  |
 | ------- |
