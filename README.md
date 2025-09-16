@@ -66,6 +66,7 @@
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/userChandru/Leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2155-find-missing-observations](https://github.com/userChandru/Leetcode/tree/master/2155-find-missing-observations) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/userChandru/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/userChandru/Leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/userChandru/Leetcode/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/userChandru/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2350-find-closest-number-to-zero](https://github.com/userChandru/Leetcode/tree/master/2350-find-closest-number-to-zero) |
@@ -190,6 +191,7 @@
 | [2106-find-greatest-common-divisor-of-array](https://github.com/userChandru/Leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2155-find-missing-observations](https://github.com/userChandru/Leetcode/tree/master/2155-find-missing-observations) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/userChandru/Leetcode/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/userChandru/Leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/userChandru/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2383-add-two-integers](https://github.com/userChandru/Leetcode/tree/master/2383-add-two-integers) |
 | [2491-smallest-even-multiple](https://github.com/userChandru/Leetcode/tree/master/2491-smallest-even-multiple) |
@@ -402,6 +404,7 @@
 | [0258-add-digits](https://github.com/userChandru/Leetcode/tree/master/0258-add-digits) |
 | [2083-three-divisors](https://github.com/userChandru/Leetcode/tree/master/2083-three-divisors) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/userChandru/Leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/userChandru/Leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2491-smallest-even-multiple](https://github.com/userChandru/Leetcode/tree/master/2491-smallest-even-multiple) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/userChandru/Leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Dynamic Programming
@@ -530,6 +533,7 @@
 | [0225-implement-stack-using-queues](https://github.com/userChandru/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/userChandru/Leetcode/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/userChandru/Leetcode/tree/master/0776-n-ary-tree-postorder-traversal) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/userChandru/Leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 ## Tree
 |  |
 | ------- |
