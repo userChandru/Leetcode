@@ -22,14 +22,14 @@ class Spreadsheet {
         int sum=0;
         String cell1= (formula.split("\\+")[0]).substring(1);
         String cell2= (formula.split("\\+")[1]);
-        if(Character.isDigit(cell1.charAt(0)))
-            sum+=Integer.parseInt(cell1);
-        else 
+        if(cell1.charAt(0) > '9')
             sum+=sheet.get(cell1.charAt(0))[Integer.parseInt(cell1.substring(1))-1];
-        if(Character.isDigit(cell2.charAt(0)))
-            sum+=Integer.parseInt(cell2);
         else 
+            sum+=Integer.parseInt(cell1);
+        if(cell2.charAt(0) > '9')
             sum+=sheet.get(cell2.charAt(0))[Integer.parseInt(cell2.substring(1))-1];
+        else 
+            sum+=Integer.parseInt(cell2);
         return sum;
     }
 }
