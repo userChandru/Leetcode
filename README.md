@@ -59,6 +59,7 @@
 | [1834-minimum-number-of-people-to-teach](https://github.com/userChandru/Leetcode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1917-maximum-average-pass-ratio](https://github.com/userChandru/Leetcode/tree/master/1917-maximum-average-pass-ratio) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/userChandru/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2023-design-movie-rental-system](https://github.com/userChandru/Leetcode/tree/master/2023-design-movie-rental-system) |
 | [2048-build-array-from-permutation](https://github.com/userChandru/Leetcode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/userChandru/Leetcode/tree/master/2058-concatenation-of-array) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/userChandru/Leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
@@ -126,6 +127,7 @@
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/userChandru/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1635-number-of-good-pairs](https://github.com/userChandru/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/userChandru/Leetcode/tree/master/1834-minimum-number-of-people-to-teach) |
+| [2023-design-movie-rental-system](https://github.com/userChandru/Leetcode/tree/master/2023-design-movie-rental-system) |
 | [2429-design-a-food-rating-system](https://github.com/userChandru/Leetcode/tree/master/2429-design-a-food-rating-system) |
 | [2634-minimum-common-value](https://github.com/userChandru/Leetcode/tree/master/2634-minimum-common-value) |
 | [2791-find-the-losers-of-the-circular-game](https://github.com/userChandru/Leetcode/tree/master/2791-find-the-losers-of-the-circular-game) |
@@ -493,6 +495,7 @@
 | ------- |
 | [1325-path-with-maximum-probability](https://github.com/userChandru/Leetcode/tree/master/1325-path-with-maximum-probability) |
 | [1917-maximum-average-pass-ratio](https://github.com/userChandru/Leetcode/tree/master/1917-maximum-average-pass-ratio) |
+| [2023-design-movie-rental-system](https://github.com/userChandru/Leetcode/tree/master/2023-design-movie-rental-system) |
 | [2429-design-a-food-rating-system](https://github.com/userChandru/Leetcode/tree/master/2429-design-a-food-rating-system) |
 | [3226-minimum-number-game](https://github.com/userChandru/Leetcode/tree/master/3226-minimum-number-game) |
 | [3678-design-task-manager](https://github.com/userChandru/Leetcode/tree/master/3678-design-task-manager) |
@@ -603,6 +606,7 @@
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/userChandru/Leetcode/tree/master/0225-implement-stack-using-queues) |
+| [2023-design-movie-rental-system](https://github.com/userChandru/Leetcode/tree/master/2023-design-movie-rental-system) |
 | [2429-design-a-food-rating-system](https://github.com/userChandru/Leetcode/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/userChandru/Leetcode/tree/master/3678-design-task-manager) |
 | [3797-design-spreadsheet](https://github.com/userChandru/Leetcode/tree/master/3797-design-spreadsheet) |
@@ -666,6 +670,7 @@
 ## Ordered Set
 |  |
 | ------- |
+| [2023-design-movie-rental-system](https://github.com/userChandru/Leetcode/tree/master/2023-design-movie-rental-system) |
 | [2429-design-a-food-rating-system](https://github.com/userChandru/Leetcode/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/userChandru/Leetcode/tree/master/3678-design-task-manager) |
 | [3827-implement-router](https://github.com/userChandru/Leetcode/tree/master/3827-implement-router) |
