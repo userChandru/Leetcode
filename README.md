@@ -96,6 +96,7 @@
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/userChandru/Leetcode/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3748-sort-matrix-by-diagonals](https://github.com/userChandru/Leetcode/tree/master/3748-sort-matrix-by-diagonals) |
 | [3797-design-spreadsheet](https://github.com/userChandru/Leetcode/tree/master/3797-design-spreadsheet) |
+| [3827-implement-router](https://github.com/userChandru/Leetcode/tree/master/3827-implement-router) |
 ## Hash Table
 |  |
 | ------- |
@@ -132,6 +133,7 @@
 | [3412-permutation-difference-between-two-strings](https://github.com/userChandru/Leetcode/tree/master/3412-permutation-difference-between-two-strings) |
 | [3678-design-task-manager](https://github.com/userChandru/Leetcode/tree/master/3678-design-task-manager) |
 | [3797-design-spreadsheet](https://github.com/userChandru/Leetcode/tree/master/3797-design-spreadsheet) |
+| [3827-implement-router](https://github.com/userChandru/Leetcode/tree/master/3827-implement-router) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/userChandru/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Simulation
 |  |
@@ -480,6 +482,7 @@
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/userChandru/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2634-minimum-common-value](https://github.com/userChandru/Leetcode/tree/master/2634-minimum-common-value) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/userChandru/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+| [3827-implement-router](https://github.com/userChandru/Leetcode/tree/master/3827-implement-router) |
 ## Interactive
 |  |
 | ------- |
@@ -603,12 +606,14 @@
 | [2429-design-a-food-rating-system](https://github.com/userChandru/Leetcode/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/userChandru/Leetcode/tree/master/3678-design-task-manager) |
 | [3797-design-spreadsheet](https://github.com/userChandru/Leetcode/tree/master/3797-design-spreadsheet) |
+| [3827-implement-router](https://github.com/userChandru/Leetcode/tree/master/3827-implement-router) |
 ## Queue
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/userChandru/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0387-first-unique-character-in-a-string](https://github.com/userChandru/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/userChandru/Leetcode/tree/master/2408-number-of-people-aware-of-a-secret) |
+| [3827-implement-router](https://github.com/userChandru/Leetcode/tree/master/3827-implement-router) |
 ## Binary Tree
 |  |
 | ------- |
@@ -663,4 +668,5 @@
 | ------- |
 | [2429-design-a-food-rating-system](https://github.com/userChandru/Leetcode/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/userChandru/Leetcode/tree/master/3678-design-task-manager) |
+| [3827-implement-router](https://github.com/userChandru/Leetcode/tree/master/3827-implement-router) |
 <!---LeetCode Topics End-->
