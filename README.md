@@ -39,6 +39,7 @@
 | [0724-find-pivot-index](https://github.com/userChandru/Leetcode/tree/master/0724-find-pivot-index) |
 | [0747-min-cost-climbing-stairs](https://github.com/userChandru/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [0792-binary-search](https://github.com/userChandru/Leetcode/tree/master/0792-binary-search) |
+| [0830-largest-triangle-area](https://github.com/userChandru/Leetcode/tree/master/0830-largest-triangle-area) |
 | [0932-monotonic-array](https://github.com/userChandru/Leetcode/tree/master/0932-monotonic-array) |
 | [1006-vowel-spellchecker](https://github.com/userChandru/Leetcode/tree/master/1006-vowel-spellchecker) |
 | [1019-squares-of-a-sorted-array](https://github.com/userChandru/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
@@ -189,6 +190,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/userChandru/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/userChandru/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0650-2-keys-keyboard](https://github.com/userChandru/Leetcode/tree/master/0650-2-keys-keyboard) |
+| [0830-largest-triangle-area](https://github.com/userChandru/Leetcode/tree/master/0830-largest-triangle-area) |
 | [1013-fibonacci-number](https://github.com/userChandru/Leetcode/tree/master/1013-fibonacci-number) |
 | [1086-divisor-game](https://github.com/userChandru/Leetcode/tree/master/1086-divisor-game) |
 | [1236-n-th-tribonacci-number](https://github.com/userChandru/Leetcode/tree/master/1236-n-th-tribonacci-number) |
@@ -673,6 +675,7 @@
 ## Geometry
 |  |
 | ------- |
+| [0830-largest-triangle-area](https://github.com/userChandru/Leetcode/tree/master/0830-largest-triangle-area) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/userChandru/Leetcode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/userChandru/Leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 ## Binary Search Tree
