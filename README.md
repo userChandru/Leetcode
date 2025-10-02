@@ -165,6 +165,7 @@
 | [2698-find-the-array-concatenation-value](https://github.com/userChandru/Leetcode/tree/master/2698-find-the-array-concatenation-value) |
 | [2791-find-the-losers-of-the-circular-game](https://github.com/userChandru/Leetcode/tree/master/2791-find-the-losers-of-the-circular-game) |
 | [3226-minimum-number-game](https://github.com/userChandru/Leetcode/tree/master/3226-minimum-number-game) |
+| [3336-water-bottles-ii](https://github.com/userChandru/Leetcode/tree/master/3336-water-bottles-ii) |
 | [3511-find-the-winning-player-in-coin-game](https://github.com/userChandru/Leetcode/tree/master/3511-find-the-winning-player-in-coin-game) |
 ## Math
 |  |
@@ -229,6 +230,7 @@
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/userChandru/Leetcode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/userChandru/Leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3321-type-of-triangle](https://github.com/userChandru/Leetcode/tree/master/3321-type-of-triangle) |
+| [3336-water-bottles-ii](https://github.com/userChandru/Leetcode/tree/master/3336-water-bottles-ii) |
 | [3371-harshad-number](https://github.com/userChandru/Leetcode/tree/master/3371-harshad-number) |
 | [3462-vowels-game-in-a-string](https://github.com/userChandru/Leetcode/tree/master/3462-vowels-game-in-a-string) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/userChandru/Leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
