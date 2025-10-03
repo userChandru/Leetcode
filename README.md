@@ -30,6 +30,7 @@
 | [0287-find-the-duplicate-number](https://github.com/userChandru/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/userChandru/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/userChandru/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0407-trapping-rain-water-ii](https://github.com/userChandru/Leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0419-battleships-in-a-board](https://github.com/userChandru/Leetcode/tree/master/0419-battleships-in-a-board) |
 | [0575-distribute-candies](https://github.com/userChandru/Leetcode/tree/master/0575-distribute-candies) |
 | [0611-valid-triangle-number](https://github.com/userChandru/Leetcode/tree/master/0611-valid-triangle-number) |
@@ -305,6 +306,7 @@
 | [0054-spiral-matrix](https://github.com/userChandru/Leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/userChandru/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0200-number-of-islands](https://github.com/userChandru/Leetcode/tree/master/0200-number-of-islands) |
+| [0407-trapping-rain-water-ii](https://github.com/userChandru/Leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0419-battleships-in-a-board](https://github.com/userChandru/Leetcode/tree/master/0419-battleships-in-a-board) |
 | [0695-max-area-of-island](https://github.com/userChandru/Leetcode/tree/master/0695-max-area-of-island) |
 | [1036-rotting-oranges](https://github.com/userChandru/Leetcode/tree/master/1036-rotting-oranges) |
@@ -523,6 +525,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0407-trapping-rain-water-ii](https://github.com/userChandru/Leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [1325-path-with-maximum-probability](https://github.com/userChandru/Leetcode/tree/master/1325-path-with-maximum-probability) |
 | [1917-maximum-average-pass-ratio](https://github.com/userChandru/Leetcode/tree/master/1917-maximum-average-pass-ratio) |
 | [2023-design-movie-rental-system](https://github.com/userChandru/Leetcode/tree/master/2023-design-movie-rental-system) |
@@ -672,6 +675,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/userChandru/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/userChandru/Leetcode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/userChandru/Leetcode/tree/master/0207-course-schedule) |
+| [0407-trapping-rain-water-ii](https://github.com/userChandru/Leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0695-max-area-of-island](https://github.com/userChandru/Leetcode/tree/master/0695-max-area-of-island) |
 | [0813-all-paths-from-source-to-target](https://github.com/userChandru/Leetcode/tree/master/0813-all-paths-from-source-to-target) |
 | [1036-rotting-oranges](https://github.com/userChandru/Leetcode/tree/master/1036-rotting-oranges) |
