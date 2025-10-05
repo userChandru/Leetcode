@@ -111,6 +111,7 @@
 | [3778-transform-array-by-parity](https://github.com/userChandru/Leetcode/tree/master/3778-transform-array-by-parity) |
 | [3797-design-spreadsheet](https://github.com/userChandru/Leetcode/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/userChandru/Leetcode/tree/master/3827-implement-router) |
+| [4008-restore-finishing-order](https://github.com/userChandru/Leetcode/tree/master/4008-restore-finishing-order) |
 ## Hash Table
 |  |
 | ------- |
@@ -152,6 +153,7 @@
 | [3797-design-spreadsheet](https://github.com/userChandru/Leetcode/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/userChandru/Leetcode/tree/master/3827-implement-router) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/userChandru/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
+| [4008-restore-finishing-order](https://github.com/userChandru/Leetcode/tree/master/4008-restore-finishing-order) |
 ## Simulation
 |  |
 | ------- |
