@@ -20,6 +20,7 @@
 | [0059-spiral-matrix-ii](https://github.com/userChandru/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/userChandru/Leetcode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/userChandru/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/userChandru/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/userChandru/Leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/userChandru/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0134-gas-station](https://github.com/userChandru/Leetcode/tree/master/0134-gas-station) |
@@ -600,6 +601,7 @@
 | [0101-symmetric-tree](https://github.com/userChandru/Leetcode/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/userChandru/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/userChandru/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/userChandru/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/userChandru/Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/userChandru/Leetcode/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/userChandru/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
@@ -673,6 +675,7 @@
 | [0101-symmetric-tree](https://github.com/userChandru/Leetcode/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/userChandru/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/userChandru/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/userChandru/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/userChandru/Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/userChandru/Leetcode/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/userChandru/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
@@ -719,6 +722,7 @@
 ## Binary Search Tree
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/userChandru/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/userChandru/Leetcode/tree/master/0975-range-sum-of-bst) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/userChandru/Leetcode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 ## Ordered Set
@@ -732,4 +736,8 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/userChandru/Leetcode/tree/master/0042-trapping-rain-water) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/userChandru/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 <!---LeetCode Topics End-->
