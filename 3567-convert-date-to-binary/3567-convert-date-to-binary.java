@@ -3,10 +3,16 @@ class Solution {
         return Integer.toBinaryString(num);
     }
     public String convertDateToBinary(String date) {
-        String cal[] = date.split("-");
-        int y = Integer.parseInt(cal[0]);
-        int m = Integer.parseInt(cal[1]);
-        int d = Integer.parseInt(cal[2]);
-        return helper(y) + "-" + helper(m) + "-" + helper(d);
+        String y = date.substring(0,4);
+        String m = date.substring(5,7);
+        String d = date.substring(8,10);
+
+        StringBuilder ans = new StringBuilder();
+        ans.append(Integer.toBinaryString(Integer.parseInt(y)));
+        ans.append("-");
+        ans.append(Integer.toBinaryString(Integer.parseInt(m)));
+        ans.append("-");
+        ans.append(Integer.toBinaryString(Integer.parseInt(d)));
+        return ans.toString();
     }
 }
