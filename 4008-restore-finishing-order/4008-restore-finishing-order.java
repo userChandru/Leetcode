@@ -1,17 +1,14 @@
 class Solution {
     public int[] recoverOrder(int[] order, int[] friends) {
-        int n=friends.length;
-        int[] ans = new int[n];
+        int n = order.length;
+        int m = friends.length;
+        int[] ans = new int[m];
         int idx=0;
-        Set<Integer> group = new HashSet<>();
-        for(int i : friends)
-            group.add(i);
-        for(int i : order){
-            if(idx==n)
-                break;
-            if(group.contains(i))
-                ans[idx++]=i;
-        }    
+        for (int i = 0; i < n; i++)
+            for (int j = 0; j < m; j++)
+                if (order[i] == friends[j])
+                    ans[idx++] = order[i];
+        
         return ans;
     }
 }
