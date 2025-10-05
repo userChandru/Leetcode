@@ -105,6 +105,7 @@
 | [3321-type-of-triangle](https://github.com/userChandru/Leetcode/tree/master/3321-type-of-triangle) |
 | [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/userChandru/Leetcode/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/userChandru/Leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/userChandru/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/userChandru/Leetcode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/userChandru/Leetcode/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3748-sort-matrix-by-diagonals](https://github.com/userChandru/Leetcode/tree/master/3748-sort-matrix-by-diagonals) |
@@ -149,6 +150,7 @@
 | [3242-count-elements-with-maximum-frequency](https://github.com/userChandru/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/userChandru/Leetcode/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 | [3412-permutation-difference-between-two-strings](https://github.com/userChandru/Leetcode/tree/master/3412-permutation-difference-between-two-strings) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/userChandru/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3678-design-task-manager](https://github.com/userChandru/Leetcode/tree/master/3678-design-task-manager) |
 | [3797-design-spreadsheet](https://github.com/userChandru/Leetcode/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/userChandru/Leetcode/tree/master/3827-implement-router) |
@@ -245,6 +247,7 @@
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/userChandru/Leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3511-find-the-winning-player-in-coin-game](https://github.com/userChandru/Leetcode/tree/master/3511-find-the-winning-player-in-coin-game) |
 | [3567-convert-date-to-binary](https://github.com/userChandru/Leetcode/tree/master/3567-convert-date-to-binary) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/userChandru/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/userChandru/Leetcode/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3830-find-closest-person](https://github.com/userChandru/Leetcode/tree/master/3830-find-closest-person) |
 ## Counting
