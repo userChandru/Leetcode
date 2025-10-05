@@ -14,25 +14,22 @@
  * }
  */
 class Solution {
-    public TreeNode helper(int[] nums, int s, int e, TreeNode temp, int side){
+    public TreeNode helper(int[] nums, int s, int e){
         if(s>e)
             return null;
         int mid = (s+e)/2;
         TreeNode newTree = new TreeNode(nums[mid]);
-        if(side==-1)
-            temp.left = newTree;
-        else
-            temp.right = newTree;
         
-        helper(nums, s, mid-1, newTree, -1);
-        helper(nums, mid+1, e, newTree, 1);
+        newTree.left = helper(nums, s, mid-1);
+        newTree.right = helper(nums, mid+1, e);
+
         return newTree;
     }
     public TreeNode sortedArrayToBST(int[] nums) {
         int n= nums.length;
         TreeNode head = new TreeNode(nums[n/2]);
-        helper(nums, 0, n/2-1, head, -1);
-        helper(nums, n/2+1, n-1, head, 1);
+        head.left = helper(nums, 0, n/2-1);
+        head.right = helper(nums, n/2+1, n-1);
         return head;
     }
 }
