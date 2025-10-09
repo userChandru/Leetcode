@@ -112,6 +112,7 @@
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/userChandru/Leetcode/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3748-sort-matrix-by-diagonals](https://github.com/userChandru/Leetcode/tree/master/3748-sort-matrix-by-diagonals) |
 | [3778-transform-array-by-parity](https://github.com/userChandru/Leetcode/tree/master/3778-transform-array-by-parity) |
+| [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/userChandru/Leetcode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3797-design-spreadsheet](https://github.com/userChandru/Leetcode/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/userChandru/Leetcode/tree/master/3827-implement-router) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/userChandru/Leetcode/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -181,6 +182,7 @@
 | [3226-minimum-number-game](https://github.com/userChandru/Leetcode/tree/master/3226-minimum-number-game) |
 | [3336-water-bottles-ii](https://github.com/userChandru/Leetcode/tree/master/3336-water-bottles-ii) |
 | [3511-find-the-winning-player-in-coin-game](https://github.com/userChandru/Leetcode/tree/master/3511-find-the-winning-player-in-coin-game) |
+| [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/userChandru/Leetcode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3811-reverse-degree-of-a-string](https://github.com/userChandru/Leetcode/tree/master/3811-reverse-degree-of-a-string) |
 ## Math
 |  |
@@ -421,6 +423,7 @@
 | [1603-running-sum-of-1d-array](https://github.com/userChandru/Leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/userChandru/Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2714-left-and-right-sum-differences](https://github.com/userChandru/Leetcode/tree/master/2714-left-and-right-sum-differences) |
+| [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/userChandru/Leetcode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Greedy
 |  |
 | ------- |
