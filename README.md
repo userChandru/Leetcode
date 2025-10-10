@@ -106,6 +106,7 @@
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/userChandru/Leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3321-type-of-triangle](https://github.com/userChandru/Leetcode/tree/master/3321-type-of-triangle) |
 | [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/userChandru/Leetcode/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
+| [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/userChandru/Leetcode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/userChandru/Leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/userChandru/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/userChandru/Leetcode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
@@ -423,6 +424,7 @@
 | [1603-running-sum-of-1d-array](https://github.com/userChandru/Leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/userChandru/Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2714-left-and-right-sum-differences](https://github.com/userChandru/Leetcode/tree/master/2714-left-and-right-sum-differences) |
+| [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/userChandru/Leetcode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/userChandru/Leetcode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Greedy
 |  |
