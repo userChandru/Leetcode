@@ -107,6 +107,7 @@
 | [3321-type-of-triangle](https://github.com/userChandru/Leetcode/tree/master/3321-type-of-triangle) |
 | [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/userChandru/Leetcode/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/userChandru/Leetcode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/userChandru/Leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/userChandru/Leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/userChandru/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/userChandru/Leetcode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
@@ -155,6 +156,7 @@
 | [3242-count-elements-with-maximum-frequency](https://github.com/userChandru/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/userChandru/Leetcode/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 | [3412-permutation-difference-between-two-strings](https://github.com/userChandru/Leetcode/tree/master/3412-permutation-difference-between-two-strings) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/userChandru/Leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/userChandru/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3678-design-task-manager](https://github.com/userChandru/Leetcode/tree/master/3678-design-task-manager) |
 | [3797-design-spreadsheet](https://github.com/userChandru/Leetcode/tree/master/3797-design-spreadsheet) |
@@ -267,6 +269,7 @@
 | [1635-number-of-good-pairs](https://github.com/userChandru/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/userChandru/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/userChandru/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/userChandru/Leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3778-transform-array-by-parity](https://github.com/userChandru/Leetcode/tree/master/3778-transform-array-by-parity) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/userChandru/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## String
@@ -415,6 +418,7 @@
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/userChandru/Leetcode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/userChandru/Leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3321-type-of-triangle](https://github.com/userChandru/Leetcode/tree/master/3321-type-of-triangle) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/userChandru/Leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3748-sort-matrix-by-diagonals](https://github.com/userChandru/Leetcode/tree/master/3748-sort-matrix-by-diagonals) |
 | [3778-transform-array-by-parity](https://github.com/userChandru/Leetcode/tree/master/3778-transform-array-by-parity) |
 ## Prefix Sum
@@ -472,6 +476,7 @@
 | [2634-minimum-common-value](https://github.com/userChandru/Leetcode/tree/master/2634-minimum-common-value) |
 | [2698-find-the-array-concatenation-value](https://github.com/userChandru/Leetcode/tree/master/2698-find-the-array-concatenation-value) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/userChandru/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/userChandru/Leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 ## Number Theory
 |  |
 | ------- |
@@ -501,6 +506,7 @@
 | [1236-n-th-tribonacci-number](https://github.com/userChandru/Leetcode/tree/master/1236-n-th-tribonacci-number) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/userChandru/Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/userChandru/Leetcode/tree/master/2408-number-of-people-aware-of-a-secret) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/userChandru/Leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/userChandru/Leetcode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 ## Bit Manipulation
 |  |
@@ -552,6 +558,7 @@
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/userChandru/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2634-minimum-common-value](https://github.com/userChandru/Leetcode/tree/master/2634-minimum-common-value) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/userChandru/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/userChandru/Leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3827-implement-router](https://github.com/userChandru/Leetcode/tree/master/3827-implement-router) |
 ## Interactive
 |  |
