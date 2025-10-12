@@ -118,6 +118,7 @@
 | [3797-design-spreadsheet](https://github.com/userChandru/Leetcode/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/userChandru/Leetcode/tree/master/3827-implement-router) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/userChandru/Leetcode/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/userChandru/Leetcode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 | [4008-restore-finishing-order](https://github.com/userChandru/Leetcode/tree/master/4008-restore-finishing-order) |
 ## Hash Table
 |  |
@@ -260,6 +261,7 @@
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/userChandru/Leetcode/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3830-find-closest-person](https://github.com/userChandru/Leetcode/tree/master/3830-find-closest-person) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/userChandru/Leetcode/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/userChandru/Leetcode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Counting
 |  |
 | ------- |
@@ -508,6 +510,7 @@
 | [2408-number-of-people-aware-of-a-secret](https://github.com/userChandru/Leetcode/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/userChandru/Leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/userChandru/Leetcode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
+| [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/userChandru/Leetcode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -527,6 +530,7 @@
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/userChandru/Leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/userChandru/Leetcode/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/userChandru/Leetcode/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
+| [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/userChandru/Leetcode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Database
 |  |
 | ------- |
@@ -581,6 +585,7 @@
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/userChandru/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/userChandru/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
+| [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/userChandru/Leetcode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Trie
 |  |
 | ------- |
@@ -782,4 +787,8 @@
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/userChandru/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/userChandru/Leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+## Bitmask
+|  |
+| ------- |
+| [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/userChandru/Leetcode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 <!---LeetCode Topics End-->
