@@ -9,7 +9,7 @@ class Solution {
             if (power[i] == power[i-1]) {
                 dp[i] = dp[i-1]+power[i];
             } else {
-                while (power[j]+2 < power[i]) {
+                while (power[i] > power[j]+2) {
                     temp = Math.max(temp, dp[j]);
                     j++;
                 }
