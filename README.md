@@ -66,6 +66,7 @@
 | [1580-shuffle-the-array](https://github.com/userChandru/Leetcode/tree/master/1580-shuffle-the-array) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/userChandru/Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1603-running-sum-of-1d-array](https://github.com/userChandru/Leetcode/tree/master/1603-running-sum-of-1d-array) |
+| [1604-least-number-of-unique-integers-after-k-removals](https://github.com/userChandru/Leetcode/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1635-number-of-good-pairs](https://github.com/userChandru/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [1791-richest-customer-wealth](https://github.com/userChandru/Leetcode/tree/master/1791-richest-customer-wealth) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/userChandru/Leetcode/tree/master/1834-minimum-number-of-people-to-teach) |
@@ -153,6 +154,7 @@
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/userChandru/Leetcode/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/userChandru/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/userChandru/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
+| [1604-least-number-of-unique-integers-after-k-removals](https://github.com/userChandru/Leetcode/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1635-number-of-good-pairs](https://github.com/userChandru/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/userChandru/Leetcode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [2023-design-movie-rental-system](https://github.com/userChandru/Leetcode/tree/master/2023-design-movie-rental-system) |
@@ -275,6 +277,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/userChandru/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/userChandru/Leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/userChandru/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1604-least-number-of-unique-integers-after-k-removals](https://github.com/userChandru/Leetcode/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1635-number-of-good-pairs](https://github.com/userChandru/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/userChandru/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/userChandru/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -420,6 +423,7 @@
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/userChandru/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/userChandru/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/userChandru/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
+| [1604-least-number-of-unique-integers-after-k-removals](https://github.com/userChandru/Leetcode/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/userChandru/Leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/userChandru/Leetcode/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/userChandru/Leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
@@ -454,6 +458,7 @@
 | [1018-largest-perimeter-triangle](https://github.com/userChandru/Leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/userChandru/Leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1448-maximum-69-number](https://github.com/userChandru/Leetcode/tree/master/1448-maximum-69-number) |
+| [1604-least-number-of-unique-integers-after-k-removals](https://github.com/userChandru/Leetcode/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/userChandru/Leetcode/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/userChandru/Leetcode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1858-latest-time-by-replacing-hidden-digits](https://github.com/userChandru/Leetcode/tree/master/1858-latest-time-by-replacing-hidden-digits) |
