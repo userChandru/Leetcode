@@ -1,7 +1,7 @@
 
 class Solution {
     public int maxDistinctElements(int[] nums, int k) {
-        if (nums.length <= (k << 1) + 1) 
+        if (nums.length <= k * 2 + 1)
             return nums.length;
 
         Arrays.sort(nums);
@@ -9,7 +9,7 @@ class Solution {
         int min = Integer.MIN_VALUE;
         int ans = 0;
 
-        for (int num : nums) 
+        for (int num : nums)
             if (min < num + k) {
                 min = Math.max(num - k, min + 1);
                 ans++;
@@ -31,7 +31,7 @@ class Solution {
         //     set.add(nums[i] + temp);
         // }
         // return set.size();
-        
+
         return ans;
     }
 }
