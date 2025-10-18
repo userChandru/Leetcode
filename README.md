@@ -113,6 +113,7 @@
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/userChandru/Leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/userChandru/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/userChandru/Leetcode/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
+| [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/userChandru/Leetcode/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/userChandru/Leetcode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/userChandru/Leetcode/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3748-sort-matrix-by-diagonals](https://github.com/userChandru/Leetcode/tree/master/3748-sort-matrix-by-diagonals) |
@@ -430,6 +431,7 @@
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/userChandru/Leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3321-type-of-triangle](https://github.com/userChandru/Leetcode/tree/master/3321-type-of-triangle) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/userChandru/Leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/userChandru/Leetcode/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3748-sort-matrix-by-diagonals](https://github.com/userChandru/Leetcode/tree/master/3748-sort-matrix-by-diagonals) |
 | [3778-transform-array-by-parity](https://github.com/userChandru/Leetcode/tree/master/3778-transform-array-by-parity) |
 ## Prefix Sum
@@ -459,6 +461,7 @@
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/userChandru/Leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/userChandru/Leetcode/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/userChandru/Leetcode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
+| [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/userChandru/Leetcode/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 ## Two Pointers
 |  |
 | ------- |
