@@ -1,6 +1,9 @@
 
 class Solution {
     public int maxDistinctElements(int[] nums, int k) {
+        if (nums.length <= (k << 1) + 1) 
+            return nums.length;
+
         Arrays.sort(nums);
 
         int min = Integer.MIN_VALUE;
