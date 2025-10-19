@@ -333,6 +333,7 @@
 | [3379-score-of-a-string](https://github.com/userChandru/Leetcode/tree/master/3379-score-of-a-string) |
 | [3412-permutation-difference-between-two-strings](https://github.com/userChandru/Leetcode/tree/master/3412-permutation-difference-between-two-strings) |
 | [3462-vowels-game-in-a-string](https://github.com/userChandru/Leetcode/tree/master/3462-vowels-game-in-a-string) |
+| [3484-lexicographically-smallest-string-after-a-swap](https://github.com/userChandru/Leetcode/tree/master/3484-lexicographically-smallest-string-after-a-swap) |
 | [3567-convert-date-to-binary](https://github.com/userChandru/Leetcode/tree/master/3567-convert-date-to-binary) |
 | [3797-design-spreadsheet](https://github.com/userChandru/Leetcode/tree/master/3797-design-spreadsheet) |
 | [3811-reverse-degree-of-a-string](https://github.com/userChandru/Leetcode/tree/master/3811-reverse-degree-of-a-string) |
@@ -466,6 +467,7 @@
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/userChandru/Leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/userChandru/Leetcode/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/userChandru/Leetcode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
+| [3484-lexicographically-smallest-string-after-a-swap](https://github.com/userChandru/Leetcode/tree/master/3484-lexicographically-smallest-string-after-a-swap) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/userChandru/Leetcode/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 ## Two Pointers
 |  |
