@@ -49,6 +49,7 @@
 | [0861-flipping-an-image](https://github.com/userChandru/Leetcode/tree/master/0861-flipping-an-image) |
 | [0907-koko-eating-bananas](https://github.com/userChandru/Leetcode/tree/master/0907-koko-eating-bananas) |
 | [0932-monotonic-array](https://github.com/userChandru/Leetcode/tree/master/0932-monotonic-array) |
+| [0941-sort-array-by-parity](https://github.com/userChandru/Leetcode/tree/master/0941-sort-array-by-parity) |
 | [1006-vowel-spellchecker](https://github.com/userChandru/Leetcode/tree/master/1006-vowel-spellchecker) |
 | [1018-largest-perimeter-triangle](https://github.com/userChandru/Leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1019-squares-of-a-sorted-array](https://github.com/userChandru/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
@@ -429,6 +430,7 @@
 | [0611-valid-triangle-number](https://github.com/userChandru/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/userChandru/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/userChandru/Leetcode/tree/master/0645-set-mismatch) |
+| [0941-sort-array-by-parity](https://github.com/userChandru/Leetcode/tree/master/0941-sort-array-by-parity) |
 | [1018-largest-perimeter-triangle](https://github.com/userChandru/Leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1019-squares-of-a-sorted-array](https://github.com/userChandru/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1253-sort-the-matrix-diagonally](https://github.com/userChandru/Leetcode/tree/master/1253-sort-the-matrix-diagonally) |
@@ -506,6 +508,7 @@
 | [0633-sum-of-square-numbers](https://github.com/userChandru/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0861-flipping-an-image](https://github.com/userChandru/Leetcode/tree/master/0861-flipping-an-image) |
 | [0908-middle-of-the-linked-list](https://github.com/userChandru/Leetcode/tree/master/0908-middle-of-the-linked-list) |
+| [0941-sort-array-by-parity](https://github.com/userChandru/Leetcode/tree/master/0941-sort-array-by-parity) |
 | [1019-squares-of-a-sorted-array](https://github.com/userChandru/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/userChandru/Leetcode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/userChandru/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
