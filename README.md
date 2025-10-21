@@ -189,6 +189,7 @@
 | [0861-flipping-an-image](https://github.com/userChandru/Leetcode/tree/master/0861-flipping-an-image) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/userChandru/Leetcode/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [1642-water-bottles](https://github.com/userChandru/Leetcode/tree/master/1642-water-bottles) |
+| [1806-count-of-matches-in-tournament](https://github.com/userChandru/Leetcode/tree/master/1806-count-of-matches-in-tournament) |
 | [2048-build-array-from-permutation](https://github.com/userChandru/Leetcode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/userChandru/Leetcode/tree/master/2058-concatenation-of-array) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/userChandru/Leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
@@ -248,6 +249,7 @@
 | [1610-xor-operation-in-an-array](https://github.com/userChandru/Leetcode/tree/master/1610-xor-operation-in-an-array) |
 | [1635-number-of-good-pairs](https://github.com/userChandru/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [1642-water-bottles](https://github.com/userChandru/Leetcode/tree/master/1642-water-bottles) |
+| [1806-count-of-matches-in-tournament](https://github.com/userChandru/Leetcode/tree/master/1806-count-of-matches-in-tournament) |
 | [1939-queries-on-number-of-points-inside-a-circle](https://github.com/userChandru/Leetcode/tree/master/1939-queries-on-number-of-points-inside-a-circle) |
 | [1965-sum-of-digits-in-base-k](https://github.com/userChandru/Leetcode/tree/master/1965-sum-of-digits-in-base-k) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/userChandru/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
