@@ -99,6 +99,7 @@
 | [2634-minimum-common-value](https://github.com/userChandru/Leetcode/tree/master/2634-minimum-common-value) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/userChandru/Leetcode/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/userChandru/Leetcode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
+| [2679-count-distinct-numbers-on-board](https://github.com/userChandru/Leetcode/tree/master/2679-count-distinct-numbers-on-board) |
 | [2698-find-the-array-concatenation-value](https://github.com/userChandru/Leetcode/tree/master/2698-find-the-array-concatenation-value) |
 | [2714-left-and-right-sum-differences](https://github.com/userChandru/Leetcode/tree/master/2714-left-and-right-sum-differences) |
 | [2791-find-the-losers-of-the-circular-game](https://github.com/userChandru/Leetcode/tree/master/2791-find-the-losers-of-the-circular-game) |
@@ -168,6 +169,7 @@
 | [2429-design-a-food-rating-system](https://github.com/userChandru/Leetcode/tree/master/2429-design-a-food-rating-system) |
 | [2634-minimum-common-value](https://github.com/userChandru/Leetcode/tree/master/2634-minimum-common-value) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/userChandru/Leetcode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
+| [2679-count-distinct-numbers-on-board](https://github.com/userChandru/Leetcode/tree/master/2679-count-distinct-numbers-on-board) |
 | [2791-find-the-losers-of-the-circular-game](https://github.com/userChandru/Leetcode/tree/master/2791-find-the-losers-of-the-circular-game) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/userChandru/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/userChandru/Leetcode/tree/master/3349-maximum-length-substring-with-two-occurrences) |
@@ -199,6 +201,7 @@
 | [2299-merge-nodes-in-between-zeros](https://github.com/userChandru/Leetcode/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/userChandru/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/userChandru/Leetcode/tree/master/2408-number-of-people-aware-of-a-secret) |
+| [2679-count-distinct-numbers-on-board](https://github.com/userChandru/Leetcode/tree/master/2679-count-distinct-numbers-on-board) |
 | [2698-find-the-array-concatenation-value](https://github.com/userChandru/Leetcode/tree/master/2698-find-the-array-concatenation-value) |
 | [2791-find-the-losers-of-the-circular-game](https://github.com/userChandru/Leetcode/tree/master/2791-find-the-losers-of-the-circular-game) |
 | [3226-minimum-number-game](https://github.com/userChandru/Leetcode/tree/master/3226-minimum-number-game) |
@@ -267,6 +270,7 @@
 | [2619-categorize-box-according-to-criteria](https://github.com/userChandru/Leetcode/tree/master/2619-categorize-box-according-to-criteria) |
 | [2630-alternating-digit-sum](https://github.com/userChandru/Leetcode/tree/master/2630-alternating-digit-sum) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/userChandru/Leetcode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
+| [2679-count-distinct-numbers-on-board](https://github.com/userChandru/Leetcode/tree/master/2679-count-distinct-numbers-on-board) |
 | [2752-sum-multiples](https://github.com/userChandru/Leetcode/tree/master/2752-sum-multiples) |
 | [2812-find-the-maximum-achievable-number](https://github.com/userChandru/Leetcode/tree/master/2812-find-the-maximum-achievable-number) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/userChandru/Leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
