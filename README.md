@@ -248,6 +248,7 @@
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/userChandru/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/userChandru/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/userChandru/Leetcode/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
+| [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/userChandru/Leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1448-maximum-69-number](https://github.com/userChandru/Leetcode/tree/master/1448-maximum-69-number) |
 | [1610-xor-operation-in-an-array](https://github.com/userChandru/Leetcode/tree/master/1610-xor-operation-in-an-array) |
 | [1635-number-of-good-pairs](https://github.com/userChandru/Leetcode/tree/master/1635-number-of-good-pairs) |
@@ -584,6 +585,7 @@
 | [0389-find-the-difference](https://github.com/userChandru/Leetcode/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/userChandru/Leetcode/tree/master/0645-set-mismatch) |
 | [0861-flipping-an-image](https://github.com/userChandru/Leetcode/tree/master/0861-flipping-an-image) |
+| [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/userChandru/Leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1610-xor-operation-in-an-array](https://github.com/userChandru/Leetcode/tree/master/1610-xor-operation-in-an-array) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/userChandru/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/userChandru/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
