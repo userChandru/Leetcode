@@ -9,7 +9,7 @@ class Bank {
             balances[i+1] = balance[i];
     }
     public boolean valid(int acc, long amount){
-        if(acc <= 0 || n < acc || balances[acc] < amount)
+        if(n < acc || balances[acc] < amount)
             return false;
         return true;
     }
