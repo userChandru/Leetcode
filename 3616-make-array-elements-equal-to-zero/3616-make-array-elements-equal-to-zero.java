@@ -11,9 +11,9 @@ class Solution {
             leftSum -= nums[i];
             if (nums[i] == 0 && leftSum == rightSum)
                 ans += 2;
-            if (nums[i] == 0 && leftSum-1 == rightSum)
+            else if (nums[i] == 0 && leftSum-1 == rightSum)
                 ans += 1;
-            if (nums[i] == 0 && leftSum == rightSum-1)
+            else if (nums[i] == 0 && leftSum == rightSum-1)
                 ans += 1;
 
         }
