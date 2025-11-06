@@ -142,6 +142,7 @@
 | [3827-implement-router](https://github.com/userChandru/Leetcode/tree/master/3827-implement-router) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/userChandru/Leetcode/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/userChandru/Leetcode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
+| [3863-power-grid-maintenance](https://github.com/userChandru/Leetcode/tree/master/3863-power-grid-maintenance) |
 | [4008-restore-finishing-order](https://github.com/userChandru/Leetcode/tree/master/4008-restore-finishing-order) |
 ## Hash Table
 |  |
@@ -193,6 +194,7 @@
 | [3678-design-task-manager](https://github.com/userChandru/Leetcode/tree/master/3678-design-task-manager) |
 | [3797-design-spreadsheet](https://github.com/userChandru/Leetcode/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/userChandru/Leetcode/tree/master/3827-implement-router) |
+| [3863-power-grid-maintenance](https://github.com/userChandru/Leetcode/tree/master/3863-power-grid-maintenance) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/userChandru/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 | [4008-restore-finishing-order](https://github.com/userChandru/Leetcode/tree/master/4008-restore-finishing-order) |
 ## Simulation
@@ -696,6 +698,7 @@
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/userChandru/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/userChandru/Leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3678-design-task-manager](https://github.com/userChandru/Leetcode/tree/master/3678-design-task-manager) |
+| [3863-power-grid-maintenance](https://github.com/userChandru/Leetcode/tree/master/3863-power-grid-maintenance) |
 ## Combinatorics
 |  |
 | ------- |
@@ -802,6 +805,7 @@
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/userChandru/Leetcode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/userChandru/Leetcode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [2121-find-if-path-exists-in-graph](https://github.com/userChandru/Leetcode/tree/master/2121-find-if-path-exists-in-graph) |
+| [3863-power-grid-maintenance](https://github.com/userChandru/Leetcode/tree/master/3863-power-grid-maintenance) |
 ## Graph
 |  |
 | ------- |
@@ -809,6 +813,7 @@
 | [0813-all-paths-from-source-to-target](https://github.com/userChandru/Leetcode/tree/master/0813-all-paths-from-source-to-target) |
 | [1325-path-with-maximum-probability](https://github.com/userChandru/Leetcode/tree/master/1325-path-with-maximum-probability) |
 | [2121-find-if-path-exists-in-graph](https://github.com/userChandru/Leetcode/tree/master/2121-find-if-path-exists-in-graph) |
+| [3863-power-grid-maintenance](https://github.com/userChandru/Leetcode/tree/master/3863-power-grid-maintenance) |
 ## Shortest Path
 |  |
 | ------- |
@@ -873,6 +878,7 @@
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/userChandru/Leetcode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/userChandru/Leetcode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [2121-find-if-path-exists-in-graph](https://github.com/userChandru/Leetcode/tree/master/2121-find-if-path-exists-in-graph) |
+| [3863-power-grid-maintenance](https://github.com/userChandru/Leetcode/tree/master/3863-power-grid-maintenance) |
 ## Topological Sort
 |  |
 | ------- |
@@ -884,6 +890,7 @@
 | [0695-max-area-of-island](https://github.com/userChandru/Leetcode/tree/master/0695-max-area-of-island) |
 | [0794-swim-in-rising-water](https://github.com/userChandru/Leetcode/tree/master/0794-swim-in-rising-water) |
 | [2121-find-if-path-exists-in-graph](https://github.com/userChandru/Leetcode/tree/master/2121-find-if-path-exists-in-graph) |
+| [3863-power-grid-maintenance](https://github.com/userChandru/Leetcode/tree/master/3863-power-grid-maintenance) |
 ## Geometry
 |  |
 | ------- |
@@ -905,6 +912,7 @@
 | [2429-design-a-food-rating-system](https://github.com/userChandru/Leetcode/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/userChandru/Leetcode/tree/master/3678-design-task-manager) |
 | [3827-implement-router](https://github.com/userChandru/Leetcode/tree/master/3827-implement-router) |
+| [3863-power-grid-maintenance](https://github.com/userChandru/Leetcode/tree/master/3863-power-grid-maintenance) |
 ## Monotonic Stack
 |  |
 | ------- |
