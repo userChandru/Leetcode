@@ -616,6 +616,7 @@
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/userChandru/Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/userChandru/Leetcode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/userChandru/Leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/userChandru/Leetcode/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/userChandru/Leetcode/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/userChandru/Leetcode/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/userChandru/Leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
@@ -637,6 +638,7 @@
 | [0861-flipping-an-image](https://github.com/userChandru/Leetcode/tree/master/0861-flipping-an-image) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/userChandru/Leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1610-xor-operation-in-an-array](https://github.com/userChandru/Leetcode/tree/master/1610-xor-operation-in-an-array) |
+| [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/userChandru/Leetcode/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/userChandru/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/userChandru/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/userChandru/Leetcode/tree/master/2323-minimum-bit-flips-to-convert-number) |
@@ -732,6 +734,7 @@
 | [0070-climbing-stairs](https://github.com/userChandru/Leetcode/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/userChandru/Leetcode/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/userChandru/Leetcode/tree/master/1236-n-th-tribonacci-number) |
+| [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/userChandru/Leetcode/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/userChandru/Leetcode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 ## Brainteaser
 |  |
