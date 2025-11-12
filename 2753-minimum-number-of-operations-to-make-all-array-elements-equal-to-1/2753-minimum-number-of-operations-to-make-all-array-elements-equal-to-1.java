@@ -18,10 +18,10 @@ class Solution {
 
         int ans = Integer.MAX_VALUE;
         for (int i = 0; i < n; i++) {
-            int g = nums[i];
+            int temp = nums[i];
             for (int j = i + 1; j < n; j++) {
-                g = gcd(g, nums[j]);
-                if (g == 1) {
+                temp = gcd(temp, nums[j]);
+                if (temp == 1) {
                     ans = Math.min(ans, j - i);
                     break;
                 }
