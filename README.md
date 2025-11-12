@@ -109,6 +109,7 @@
 | [2679-count-distinct-numbers-on-board](https://github.com/userChandru/Leetcode/tree/master/2679-count-distinct-numbers-on-board) |
 | [2698-find-the-array-concatenation-value](https://github.com/userChandru/Leetcode/tree/master/2698-find-the-array-concatenation-value) |
 | [2714-left-and-right-sum-differences](https://github.com/userChandru/Leetcode/tree/master/2714-left-and-right-sum-differences) |
+| [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/userChandru/Leetcode/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2791-find-the-losers-of-the-circular-game](https://github.com/userChandru/Leetcode/tree/master/2791-find-the-losers-of-the-circular-game) |
 | [2836-neither-minimum-nor-maximum](https://github.com/userChandru/Leetcode/tree/master/2836-neither-minimum-nor-maximum) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/userChandru/Leetcode/tree/master/2844-sum-of-squares-of-special-elements) |
@@ -302,6 +303,7 @@
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/userChandru/Leetcode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2679-count-distinct-numbers-on-board](https://github.com/userChandru/Leetcode/tree/master/2679-count-distinct-numbers-on-board) |
 | [2752-sum-multiples](https://github.com/userChandru/Leetcode/tree/master/2752-sum-multiples) |
+| [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/userChandru/Leetcode/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2812-find-the-maximum-achievable-number](https://github.com/userChandru/Leetcode/tree/master/2812-find-the-maximum-achievable-number) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/userChandru/Leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [2955-account-balance-after-rounded-purchase](https://github.com/userChandru/Leetcode/tree/master/2955-account-balance-after-rounded-purchase) |
@@ -598,6 +600,7 @@
 | [2106-find-greatest-common-divisor-of-array](https://github.com/userChandru/Leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/userChandru/Leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2491-smallest-even-multiple](https://github.com/userChandru/Leetcode/tree/master/2491-smallest-even-multiple) |
+| [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/userChandru/Leetcode/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/userChandru/Leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/userChandru/Leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Dynamic Programming
