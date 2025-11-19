@@ -92,6 +92,7 @@
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/userChandru/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/userChandru/Leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/userChandru/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/userChandru/Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/userChandru/Leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/userChandru/Leetcode/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/userChandru/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
@@ -185,6 +186,7 @@
 | [2023-design-movie-rental-system](https://github.com/userChandru/Leetcode/tree/master/2023-design-movie-rental-system) |
 | [2169-simple-bank-system](https://github.com/userChandru/Leetcode/tree/master/2169-simple-bank-system) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/userChandru/Leetcode/tree/master/2174-next-greater-numerically-balanced-number) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/userChandru/Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2429-design-a-food-rating-system](https://github.com/userChandru/Leetcode/tree/master/2429-design-a-food-rating-system) |
 | [2634-minimum-common-value](https://github.com/userChandru/Leetcode/tree/master/2634-minimum-common-value) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/userChandru/Leetcode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
@@ -223,6 +225,7 @@
 | [2169-simple-bank-system](https://github.com/userChandru/Leetcode/tree/master/2169-simple-bank-system) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/userChandru/Leetcode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/userChandru/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/userChandru/Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2288-count-operations-to-obtain-zero](https://github.com/userChandru/Leetcode/tree/master/2288-count-operations-to-obtain-zero) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/userChandru/Leetcode/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/userChandru/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
@@ -511,6 +514,7 @@
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/userChandru/Leetcode/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/userChandru/Leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/userChandru/Leetcode/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/userChandru/Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/userChandru/Leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2836-neither-minimum-nor-maximum](https://github.com/userChandru/Leetcode/tree/master/2836-neither-minimum-nor-maximum) |
 | [2887-sort-vowels-in-a-string](https://github.com/userChandru/Leetcode/tree/master/2887-sort-vowels-in-a-string) |
