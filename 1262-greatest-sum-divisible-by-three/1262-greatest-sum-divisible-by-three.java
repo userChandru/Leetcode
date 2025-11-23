@@ -1,8 +1,8 @@
 class Solution {
     public int maxSumDivThree(int[] nums) {
         int sum = 0;
-        int oneRemainder = 20000;
-        int twoRemainder = 20000;
+        int one = 20000;
+        int two = 20000;
         
         for(int num : nums)
         {
@@ -10,14 +10,14 @@ class Solution {
             
             if(num % 3 == 1)
             {
-                twoRemainder = Math.min(twoRemainder, oneRemainder + num);
-                oneRemainder = Math.min(oneRemainder, num); 
+                two = Math.min(two, one + num);
+                one = Math.min(one, num); 
             }
             
             if(num % 3 == 2)
             {
-                oneRemainder = Math.min(oneRemainder, twoRemainder + num);
-                twoRemainder = Math.min(twoRemainder, num);
+                one = Math.min(one, two + num);
+                two = Math.min(two, num);
                  
             }
         }
@@ -26,10 +26,10 @@ class Solution {
             return sum;
         
         if(sum % 3 == 1)
-            return sum - oneRemainder;
+            return sum - one;
         
         if(sum % 3 == 2)
-            return sum - twoRemainder;
+            return sum - two;
         
         return 0;
             
