@@ -55,6 +55,7 @@
 | [0958-sort-array-by-parity-ii](https://github.com/userChandru/Leetcode/tree/master/0958-sort-array-by-parity-ii) |
 | [1006-vowel-spellchecker](https://github.com/userChandru/Leetcode/tree/master/1006-vowel-spellchecker) |
 | [1018-largest-perimeter-triangle](https://github.com/userChandru/Leetcode/tree/master/1018-largest-perimeter-triangle) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/userChandru/Leetcode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1019-squares-of-a-sorted-array](https://github.com/userChandru/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1036-rotting-oranges](https://github.com/userChandru/Leetcode/tree/master/1036-rotting-oranges) |
 | [1253-sort-the-matrix-diagonally](https://github.com/userChandru/Leetcode/tree/master/1253-sort-the-matrix-diagonally) |
@@ -667,6 +668,7 @@
 | [0389-find-the-difference](https://github.com/userChandru/Leetcode/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/userChandru/Leetcode/tree/master/0645-set-mismatch) |
 | [0861-flipping-an-image](https://github.com/userChandru/Leetcode/tree/master/0861-flipping-an-image) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/userChandru/Leetcode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/userChandru/Leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1610-xor-operation-in-an-array](https://github.com/userChandru/Leetcode/tree/master/1610-xor-operation-in-an-array) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/userChandru/Leetcode/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
