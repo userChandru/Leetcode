@@ -829,6 +829,7 @@
 | [0975-range-sum-of-bst](https://github.com/userChandru/Leetcode/tree/master/0975-range-sum-of-bst) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/userChandru/Leetcode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/userChandru/Leetcode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
+| [2872-maximum-number-of-k-divisible-components](https://github.com/userChandru/Leetcode/tree/master/2872-maximum-number-of-k-divisible-components) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -855,6 +856,7 @@
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/userChandru/Leetcode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/userChandru/Leetcode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [2121-find-if-path-exists-in-graph](https://github.com/userChandru/Leetcode/tree/master/2121-find-if-path-exists-in-graph) |
+| [2872-maximum-number-of-k-divisible-components](https://github.com/userChandru/Leetcode/tree/master/2872-maximum-number-of-k-divisible-components) |
 | [3863-power-grid-maintenance](https://github.com/userChandru/Leetcode/tree/master/3863-power-grid-maintenance) |
 ## Graph
 |  |
