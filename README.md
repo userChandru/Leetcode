@@ -234,6 +234,7 @@
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/userChandru/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2155-find-missing-observations](https://github.com/userChandru/Leetcode/tree/master/2155-find-missing-observations) |
 | [2169-simple-bank-system](https://github.com/userChandru/Leetcode/tree/master/2169-simple-bank-system) |
+| [2211-count-collisions-on-a-road](https://github.com/userChandru/Leetcode/tree/master/2211-count-collisions-on-a-road) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/userChandru/Leetcode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/userChandru/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/userChandru/Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -399,6 +400,7 @@
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/userChandru/Leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/userChandru/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2168-check-if-numbers-are-ascending-in-a-sentence](https://github.com/userChandru/Leetcode/tree/master/2168-check-if-numbers-are-ascending-in-a-sentence) |
+| [2211-count-collisions-on-a-road](https://github.com/userChandru/Leetcode/tree/master/2211-count-collisions-on-a-road) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/userChandru/Leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/userChandru/Leetcode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/userChandru/Leetcode/tree/master/2346-largest-3-same-digit-number-in-string) |
@@ -813,6 +815,7 @@
 | [0775-n-ary-tree-preorder-traversal](https://github.com/userChandru/Leetcode/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/userChandru/Leetcode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/userChandru/Leetcode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [2211-count-collisions-on-a-road](https://github.com/userChandru/Leetcode/tree/master/2211-count-collisions-on-a-road) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/userChandru/Leetcode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/userChandru/Leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/userChandru/Leetcode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
