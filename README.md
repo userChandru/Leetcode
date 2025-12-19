@@ -25,6 +25,7 @@
 | [0119-pascals-triangle-ii](https://github.com/userChandru/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0134-gas-station](https://github.com/userChandru/Leetcode/tree/master/0134-gas-station) |
 | [0136-single-number](https://github.com/userChandru/Leetcode/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/userChandru/Leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/userChandru/Leetcode/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/userChandru/Leetcode/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/userChandru/Leetcode/tree/master/0217-contains-duplicate) |
@@ -179,6 +180,7 @@
 | [0041-first-missing-positive](https://github.com/userChandru/Leetcode/tree/master/0041-first-missing-positive) |
 | [0160-intersection-of-two-linked-lists](https://github.com/userChandru/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0166-fraction-to-recurring-decimal](https://github.com/userChandru/Leetcode/tree/master/0166-fraction-to-recurring-decimal) |
+| [0169-majority-element](https://github.com/userChandru/Leetcode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/userChandru/Leetcode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/userChandru/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/userChandru/Leetcode/tree/master/0268-missing-number) |
@@ -362,6 +364,7 @@
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/userChandru/Leetcode/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/userChandru/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/userChandru/Leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/userChandru/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -527,6 +530,7 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/userChandru/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/userChandru/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/userChandru/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/userChandru/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/userChandru/Leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -1013,6 +1017,7 @@
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/userChandru/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/userChandru/Leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0169-majority-element](https://github.com/userChandru/Leetcode/tree/master/0169-majority-element) |
 ## Bitmask
 |  |
 | ------- |
