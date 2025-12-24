@@ -400,6 +400,7 @@
 | [0165-compare-version-numbers](https://github.com/userChandru/Leetcode/tree/master/0165-compare-version-numbers) |
 | [0166-fraction-to-recurring-decimal](https://github.com/userChandru/Leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0171-excel-sheet-column-number](https://github.com/userChandru/Leetcode/tree/master/0171-excel-sheet-column-number) |
+| [0257-binary-tree-paths](https://github.com/userChandru/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0387-first-unique-character-in-a-string](https://github.com/userChandru/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/userChandru/Leetcode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/userChandru/Leetcode/tree/master/0392-is-subsequence) |
@@ -807,6 +808,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/userChandru/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/userChandru/Leetcode/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/userChandru/Leetcode/tree/master/0037-sudoku-solver) |
+| [0257-binary-tree-paths](https://github.com/userChandru/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0813-all-paths-from-source-to-target](https://github.com/userChandru/Leetcode/tree/master/0813-all-paths-from-source-to-target) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/userChandru/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/userChandru/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
@@ -870,6 +872,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/userChandru/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/userChandru/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/userChandru/Leetcode/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/userChandru/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/userChandru/Leetcode/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/userChandru/Leetcode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0975-range-sum-of-bst](https://github.com/userChandru/Leetcode/tree/master/0975-range-sum-of-bst) |
@@ -891,6 +894,7 @@
 | [0200-number-of-islands](https://github.com/userChandru/Leetcode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/userChandru/Leetcode/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/userChandru/Leetcode/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/userChandru/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0417-pacific-atlantic-water-flow](https://github.com/userChandru/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0419-battleships-in-a-board](https://github.com/userChandru/Leetcode/tree/master/0419-battleships-in-a-board) |
 | [0695-max-area-of-island](https://github.com/userChandru/Leetcode/tree/master/0695-max-area-of-island) |
@@ -956,6 +960,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/userChandru/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/userChandru/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/userChandru/Leetcode/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/userChandru/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0975-range-sum-of-bst](https://github.com/userChandru/Leetcode/tree/master/0975-range-sum-of-bst) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/userChandru/Leetcode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/userChandru/Leetcode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
