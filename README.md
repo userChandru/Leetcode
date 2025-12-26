@@ -223,6 +223,7 @@
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/userChandru/Leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/userChandru/Leetcode/tree/master/3625-count-number-of-trapezoids-ii) |
 | [3678-design-task-manager](https://github.com/userChandru/Leetcode/tree/master/3678-design-task-manager) |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/userChandru/Leetcode/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3797-design-spreadsheet](https://github.com/userChandru/Leetcode/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/userChandru/Leetcode/tree/master/3827-implement-router) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/userChandru/Leetcode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
@@ -442,6 +443,7 @@
 | [3484-lexicographically-smallest-string-after-a-swap](https://github.com/userChandru/Leetcode/tree/master/3484-lexicographically-smallest-string-after-a-swap) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/userChandru/Leetcode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3567-convert-date-to-binary](https://github.com/userChandru/Leetcode/tree/master/3567-convert-date-to-binary) |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/userChandru/Leetcode/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/userChandru/Leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3797-design-spreadsheet](https://github.com/userChandru/Leetcode/tree/master/3797-design-spreadsheet) |
 | [3811-reverse-degree-of-a-string](https://github.com/userChandru/Leetcode/tree/master/3811-reverse-degree-of-a-string) |
