@@ -240,6 +240,7 @@
 | [0059-spiral-matrix-ii](https://github.com/userChandru/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/userChandru/Leetcode/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/userChandru/Leetcode/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/userChandru/Leetcode/tree/master/0412-fizz-buzz) |
 | [0861-flipping-an-image](https://github.com/userChandru/Leetcode/tree/master/0861-flipping-an-image) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/userChandru/Leetcode/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [1642-water-bottles](https://github.com/userChandru/Leetcode/tree/master/1642-water-bottles) |
@@ -296,6 +297,7 @@
 | [0326-power-of-three](https://github.com/userChandru/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/userChandru/Leetcode/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/userChandru/Leetcode/tree/master/0367-valid-perfect-square) |
+| [0412-fizz-buzz](https://github.com/userChandru/Leetcode/tree/master/0412-fizz-buzz) |
 | [0628-maximum-product-of-three-numbers](https://github.com/userChandru/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/userChandru/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0650-2-keys-keyboard](https://github.com/userChandru/Leetcode/tree/master/0650-2-keys-keyboard) |
@@ -412,6 +414,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/userChandru/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/userChandru/Leetcode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/userChandru/Leetcode/tree/master/0392-is-subsequence) |
+| [0412-fizz-buzz](https://github.com/userChandru/Leetcode/tree/master/0412-fizz-buzz) |
 | [0782-jewels-and-stones](https://github.com/userChandru/Leetcode/tree/master/0782-jewels-and-stones) |
 | [1006-vowel-spellchecker](https://github.com/userChandru/Leetcode/tree/master/1006-vowel-spellchecker) |
 | [1205-defanging-an-ip-address](https://github.com/userChandru/Leetcode/tree/master/1205-defanging-an-ip-address) |
