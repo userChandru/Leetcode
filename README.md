@@ -33,6 +33,7 @@
 | [0268-missing-number](https://github.com/userChandru/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/userChandru/Leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/userChandru/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0303-range-sum-query-immutable](https://github.com/userChandru/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/userChandru/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/userChandru/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0407-trapping-rain-water-ii](https://github.com/userChandru/Leetcode/tree/master/0407-trapping-rain-water-ii) |
@@ -596,6 +597,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/userChandru/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0713-subarray-product-less-than-k](https://github.com/userChandru/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/userChandru/Leetcode/tree/master/0724-find-pivot-index) |
 | [1603-running-sum-of-1d-array](https://github.com/userChandru/Leetcode/tree/master/1603-running-sum-of-1d-array) |
@@ -955,6 +957,7 @@
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/userChandru/Leetcode/tree/master/0225-implement-stack-using-queues) |
+| [0303-range-sum-query-immutable](https://github.com/userChandru/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [2023-design-movie-rental-system](https://github.com/userChandru/Leetcode/tree/master/2023-design-movie-rental-system) |
 | [2169-simple-bank-system](https://github.com/userChandru/Leetcode/tree/master/2169-simple-bank-system) |
 | [2429-design-a-food-rating-system](https://github.com/userChandru/Leetcode/tree/master/2429-design-a-food-rating-system) |
