@@ -2,24 +2,25 @@ class ParkingSystem {
     int big;
     int med;
     int small;
+
     public ParkingSystem(int big, int medium, int small) {
         this.big = big;
         this.med = medium;
         this.small = small;
     }
-    
+
     public boolean addCar(int carType) {
-        if(carType==1 && big>0){
+        if (carType == 1 && big > 0) {
             big--;
-            return true;  
-        }
-        if(carType==2 && med>0){
+            return true;
+        } 
+        else if (carType == 2 && med > 0) {
             med--;
-            return true;  
-        }
-        if(carType==3 && small>0){
+            return true;
+        } 
+        else if (carType == 3 && small > 0) {
             small--;
-            return true;  
+            return true;
         }
         return false;
     }
