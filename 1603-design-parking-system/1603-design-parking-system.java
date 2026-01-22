@@ -10,18 +10,12 @@ class ParkingSystem {
     }
 
     public boolean addCar(int carType) {
-        if (carType == 1 && big > 0) {
-            big--;
+        if (carType == 1 && big-- > 0)
             return true;
-        } 
-        else if (carType == 2 && med > 0) {
-            med--;
+        else if (carType == 2 && med-- > 0)
             return true;
-        } 
-        else if (carType == 3 && small > 0) {
-            small--;
+        else if (carType == 3 && small-- > 0)
             return true;
-        }
         return false;
     }
 }
