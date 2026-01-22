@@ -249,6 +249,7 @@
 | [0412-fizz-buzz](https://github.com/userChandru/Leetcode/tree/master/0412-fizz-buzz) |
 | [0861-flipping-an-image](https://github.com/userChandru/Leetcode/tree/master/0861-flipping-an-image) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/userChandru/Leetcode/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
+| [1603-design-parking-system](https://github.com/userChandru/Leetcode/tree/master/1603-design-parking-system) |
 | [1642-water-bottles](https://github.com/userChandru/Leetcode/tree/master/1642-water-bottles) |
 | [1806-count-of-matches-in-tournament](https://github.com/userChandru/Leetcode/tree/master/1806-count-of-matches-in-tournament) |
 | [2048-build-array-from-permutation](https://github.com/userChandru/Leetcode/tree/master/2048-build-array-from-permutation) |
@@ -384,6 +385,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/userChandru/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/userChandru/Leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/userChandru/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1603-design-parking-system](https://github.com/userChandru/Leetcode/tree/master/1603-design-parking-system) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/userChandru/Leetcode/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1635-number-of-good-pairs](https://github.com/userChandru/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/userChandru/Leetcode/tree/master/2174-next-greater-numerically-balanced-number) |
@@ -968,6 +970,7 @@
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/userChandru/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0303-range-sum-query-immutable](https://github.com/userChandru/Leetcode/tree/master/0303-range-sum-query-immutable) |
+| [1603-design-parking-system](https://github.com/userChandru/Leetcode/tree/master/1603-design-parking-system) |
 | [2023-design-movie-rental-system](https://github.com/userChandru/Leetcode/tree/master/2023-design-movie-rental-system) |
 | [2169-simple-bank-system](https://github.com/userChandru/Leetcode/tree/master/2169-simple-bank-system) |
 | [2429-design-a-food-rating-system](https://github.com/userChandru/Leetcode/tree/master/2429-design-a-food-rating-system) |
