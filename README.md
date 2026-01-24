@@ -734,6 +734,7 @@
 | [0029-divide-two-integers](https://github.com/userChandru/Leetcode/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/userChandru/Leetcode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/userChandru/Leetcode/tree/master/0136-single-number) |
+| [0222-count-complete-tree-nodes](https://github.com/userChandru/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/userChandru/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/userChandru/Leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/userChandru/Leetcode/tree/master/0287-find-the-duplicate-number) |
@@ -774,6 +775,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/userChandru/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/userChandru/Leetcode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/userChandru/Leetcode/tree/master/0069-sqrtx) |
+| [0222-count-complete-tree-nodes](https://github.com/userChandru/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/userChandru/Leetcode/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/userChandru/Leetcode/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/userChandru/Leetcode/tree/master/0287-find-the-duplicate-number) |
@@ -903,6 +905,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/userChandru/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/userChandru/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/userChandru/Leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0222-count-complete-tree-nodes](https://github.com/userChandru/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/userChandru/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/userChandru/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0257-binary-tree-paths](https://github.com/userChandru/Leetcode/tree/master/0257-binary-tree-paths) |
@@ -1002,6 +1005,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/userChandru/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/userChandru/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/userChandru/Leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0222-count-complete-tree-nodes](https://github.com/userChandru/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/userChandru/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/userChandru/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0257-binary-tree-paths](https://github.com/userChandru/Leetcode/tree/master/0257-binary-tree-paths) |
