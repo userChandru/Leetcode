@@ -88,6 +88,7 @@
 | [1635-number-of-good-pairs](https://github.com/userChandru/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/userChandru/Leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1720-decode-xored-array](https://github.com/userChandru/Leetcode/tree/master/1720-decode-xored-array) |
+| [1773-count-items-matching-a-rule](https://github.com/userChandru/Leetcode/tree/master/1773-count-items-matching-a-rule) |
 | [1791-richest-customer-wealth](https://github.com/userChandru/Leetcode/tree/master/1791-richest-customer-wealth) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/userChandru/Leetcode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/userChandru/Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -438,6 +439,7 @@
 | [1636-number-of-substrings-with-only-1s](https://github.com/userChandru/Leetcode/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/userChandru/Leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/userChandru/Leetcode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
+| [1773-count-items-matching-a-rule](https://github.com/userChandru/Leetcode/tree/master/1773-count-items-matching-a-rule) |
 | [1797-goal-parser-interpretation](https://github.com/userChandru/Leetcode/tree/master/1797-goal-parser-interpretation) |
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/userChandru/Leetcode/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1858-latest-time-by-replacing-hidden-digits](https://github.com/userChandru/Leetcode/tree/master/1858-latest-time-by-replacing-hidden-digits) |
