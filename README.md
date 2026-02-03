@@ -935,6 +935,7 @@
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/userChandru/Leetcode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/userChandru/Leetcode/tree/master/1302-deepest-leaves-sum) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/userChandru/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+| [2415-reverse-odd-levels-of-binary-tree](https://github.com/userChandru/Leetcode/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/userChandru/Leetcode/tree/master/2872-maximum-number-of-k-divisible-components) |
 ## Depth-First Search
 |  |
@@ -968,6 +969,7 @@
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/userChandru/Leetcode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [2121-find-if-path-exists-in-graph](https://github.com/userChandru/Leetcode/tree/master/2121-find-if-path-exists-in-graph) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/userChandru/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+| [2415-reverse-odd-levels-of-binary-tree](https://github.com/userChandru/Leetcode/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/userChandru/Leetcode/tree/master/2872-maximum-number-of-k-divisible-components) |
 | [3863-power-grid-maintenance](https://github.com/userChandru/Leetcode/tree/master/3863-power-grid-maintenance) |
 ## Graph
@@ -1033,6 +1035,7 @@
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/userChandru/Leetcode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/userChandru/Leetcode/tree/master/1302-deepest-leaves-sum) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/userChandru/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+| [2415-reverse-odd-levels-of-binary-tree](https://github.com/userChandru/Leetcode/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -1056,6 +1059,7 @@
 | [1302-deepest-leaves-sum](https://github.com/userChandru/Leetcode/tree/master/1302-deepest-leaves-sum) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/userChandru/Leetcode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [2121-find-if-path-exists-in-graph](https://github.com/userChandru/Leetcode/tree/master/2121-find-if-path-exists-in-graph) |
+| [2415-reverse-odd-levels-of-binary-tree](https://github.com/userChandru/Leetcode/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 | [3863-power-grid-maintenance](https://github.com/userChandru/Leetcode/tree/master/3863-power-grid-maintenance) |
 ## Topological Sort
 |  |
