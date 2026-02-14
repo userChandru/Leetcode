@@ -450,6 +450,7 @@
 | [1797-goal-parser-interpretation](https://github.com/userChandru/Leetcode/tree/master/1797-goal-parser-interpretation) |
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/userChandru/Leetcode/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1816-truncate-sentence](https://github.com/userChandru/Leetcode/tree/master/1816-truncate-sentence) |
+| [1844-replace-all-digits-with-characters](https://github.com/userChandru/Leetcode/tree/master/1844-replace-all-digits-with-characters) |
 | [1858-latest-time-by-replacing-hidden-digits](https://github.com/userChandru/Leetcode/tree/master/1858-latest-time-by-replacing-hidden-digits) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/userChandru/Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/userChandru/Leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
