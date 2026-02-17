@@ -11,14 +11,13 @@ class Solution {
 
         String[] ans = new String[n];
 
-        for (int i = 0; i < n; i++)
-            if (i == 0)
-                ans[pairs[i][0]] = "Gold Medal";
-            else if (i == 1)
-                ans[pairs[i][0]] = "Silver Medal";
-            else if (i == 2)
-                ans[pairs[i][0]] = "Bronze Medal";
-            else
+        ans[pairs[0][0]] = "Gold Medal";
+        if (n > 1)
+            ans[pairs[1][0]] = "Silver Medal";
+        if (n > 2)
+            ans[pairs[2][0]] = "Bronze Medal";
+        if (n > 3)
+            for (int i = 3; i < n; i++)
                 ans[pairs[i][0]] = String.valueOf(i + 1);
 
         return ans;
