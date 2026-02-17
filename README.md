@@ -40,6 +40,7 @@
 | [0407-trapping-rain-water-ii](https://github.com/userChandru/Leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/userChandru/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0419-battleships-in-a-board](https://github.com/userChandru/Leetcode/tree/master/0419-battleships-in-a-board) |
+| [0506-relative-ranks](https://github.com/userChandru/Leetcode/tree/master/0506-relative-ranks) |
 | [0575-distribute-candies](https://github.com/userChandru/Leetcode/tree/master/0575-distribute-candies) |
 | [0611-valid-triangle-number](https://github.com/userChandru/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/userChandru/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -587,6 +588,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/userChandru/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/userChandru/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/userChandru/Leetcode/tree/master/0389-find-the-difference) |
+| [0506-relative-ranks](https://github.com/userChandru/Leetcode/tree/master/0506-relative-ranks) |
 | [0611-valid-triangle-number](https://github.com/userChandru/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/userChandru/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/userChandru/Leetcode/tree/master/0645-set-mismatch) |
@@ -837,6 +839,7 @@
 |  |
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/userChandru/Leetcode/tree/master/0407-trapping-rain-water-ii) |
+| [0506-relative-ranks](https://github.com/userChandru/Leetcode/tree/master/0506-relative-ranks) |
 | [0794-swim-in-rising-water](https://github.com/userChandru/Leetcode/tree/master/0794-swim-in-rising-water) |
 | [1325-path-with-maximum-probability](https://github.com/userChandru/Leetcode/tree/master/1325-path-with-maximum-probability) |
 | [1917-maximum-average-pass-ratio](https://github.com/userChandru/Leetcode/tree/master/1917-maximum-average-pass-ratio) |
