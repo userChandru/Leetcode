@@ -40,6 +40,7 @@
 | [0407-trapping-rain-water-ii](https://github.com/userChandru/Leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/userChandru/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0419-battleships-in-a-board](https://github.com/userChandru/Leetcode/tree/master/0419-battleships-in-a-board) |
+| [0500-keyboard-row](https://github.com/userChandru/Leetcode/tree/master/0500-keyboard-row) |
 | [0506-relative-ranks](https://github.com/userChandru/Leetcode/tree/master/0506-relative-ranks) |
 | [0575-distribute-candies](https://github.com/userChandru/Leetcode/tree/master/0575-distribute-candies) |
 | [0611-valid-triangle-number](https://github.com/userChandru/Leetcode/tree/master/0611-valid-triangle-number) |
@@ -207,6 +208,7 @@
 | [0383-ransom-note](https://github.com/userChandru/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/userChandru/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/userChandru/Leetcode/tree/master/0389-find-the-difference) |
+| [0500-keyboard-row](https://github.com/userChandru/Leetcode/tree/master/0500-keyboard-row) |
 | [0575-distribute-candies](https://github.com/userChandru/Leetcode/tree/master/0575-distribute-candies) |
 | [0645-set-mismatch](https://github.com/userChandru/Leetcode/tree/master/0645-set-mismatch) |
 | [0782-jewels-and-stones](https://github.com/userChandru/Leetcode/tree/master/0782-jewels-and-stones) |
@@ -436,6 +438,7 @@
 | [0389-find-the-difference](https://github.com/userChandru/Leetcode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/userChandru/Leetcode/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/userChandru/Leetcode/tree/master/0412-fizz-buzz) |
+| [0500-keyboard-row](https://github.com/userChandru/Leetcode/tree/master/0500-keyboard-row) |
 | [0782-jewels-and-stones](https://github.com/userChandru/Leetcode/tree/master/0782-jewels-and-stones) |
 | [1006-vowel-spellchecker](https://github.com/userChandru/Leetcode/tree/master/1006-vowel-spellchecker) |
 | [1021-remove-outermost-parentheses](https://github.com/userChandru/Leetcode/tree/master/1021-remove-outermost-parentheses) |
