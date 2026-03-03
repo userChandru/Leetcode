@@ -67,6 +67,7 @@
 | [1036-rotting-oranges](https://github.com/userChandru/Leetcode/tree/master/1036-rotting-oranges) |
 | [1253-sort-the-matrix-diagonally](https://github.com/userChandru/Leetcode/tree/master/1253-sort-the-matrix-diagonally) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/userChandru/Leetcode/tree/master/1262-greatest-sum-divisible-by-three) |
+| [1266-minimum-time-visiting-all-points](https://github.com/userChandru/Leetcode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/userChandru/Leetcode/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1284-four-divisors](https://github.com/userChandru/Leetcode/tree/master/1284-four-divisors) |
 | [1325-path-with-maximum-probability](https://github.com/userChandru/Leetcode/tree/master/1325-path-with-maximum-probability) |
@@ -328,6 +329,7 @@
 | [1018-largest-perimeter-triangle](https://github.com/userChandru/Leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1086-divisor-game](https://github.com/userChandru/Leetcode/tree/master/1086-divisor-game) |
 | [1236-n-th-tribonacci-number](https://github.com/userChandru/Leetcode/tree/master/1236-n-th-tribonacci-number) |
+| [1266-minimum-time-visiting-all-points](https://github.com/userChandru/Leetcode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1284-four-divisors](https://github.com/userChandru/Leetcode/tree/master/1284-four-divisors) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/userChandru/Leetcode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/userChandru/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -1094,6 +1096,7 @@
 |  |
 | ------- |
 | [0830-largest-triangle-area](https://github.com/userChandru/Leetcode/tree/master/0830-largest-triangle-area) |
+| [1266-minimum-time-visiting-all-points](https://github.com/userChandru/Leetcode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1939-queries-on-number-of-points-inside-a-circle](https://github.com/userChandru/Leetcode/tree/master/1939-queries-on-number-of-points-inside-a-circle) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/userChandru/Leetcode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/userChandru/Leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
