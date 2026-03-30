@@ -61,6 +61,7 @@
 | [0932-monotonic-array](https://github.com/userChandru/Leetcode/tree/master/0932-monotonic-array) |
 | [0941-sort-array-by-parity](https://github.com/userChandru/Leetcode/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/userChandru/Leetcode/tree/master/0958-sort-array-by-parity-ii) |
+| [0999-available-captures-for-rook](https://github.com/userChandru/Leetcode/tree/master/0999-available-captures-for-rook) |
 | [1006-vowel-spellchecker](https://github.com/userChandru/Leetcode/tree/master/1006-vowel-spellchecker) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/userChandru/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1018-largest-perimeter-triangle](https://github.com/userChandru/Leetcode/tree/master/1018-largest-perimeter-triangle) |
@@ -265,6 +266,7 @@
 | [0258-add-digits](https://github.com/userChandru/Leetcode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/userChandru/Leetcode/tree/master/0412-fizz-buzz) |
 | [0861-flipping-an-image](https://github.com/userChandru/Leetcode/tree/master/0861-flipping-an-image) |
+| [0999-available-captures-for-rook](https://github.com/userChandru/Leetcode/tree/master/0999-available-captures-for-rook) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/userChandru/Leetcode/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [1603-design-parking-system](https://github.com/userChandru/Leetcode/tree/master/1603-design-parking-system) |
 | [1642-water-bottles](https://github.com/userChandru/Leetcode/tree/master/1642-water-bottles) |
@@ -510,6 +512,7 @@
 | [0695-max-area-of-island](https://github.com/userChandru/Leetcode/tree/master/0695-max-area-of-island) |
 | [0794-swim-in-rising-water](https://github.com/userChandru/Leetcode/tree/master/0794-swim-in-rising-water) |
 | [0861-flipping-an-image](https://github.com/userChandru/Leetcode/tree/master/0861-flipping-an-image) |
+| [0999-available-captures-for-rook](https://github.com/userChandru/Leetcode/tree/master/0999-available-captures-for-rook) |
 | [1036-rotting-oranges](https://github.com/userChandru/Leetcode/tree/master/1036-rotting-oranges) |
 | [1253-sort-the-matrix-diagonally](https://github.com/userChandru/Leetcode/tree/master/1253-sort-the-matrix-diagonally) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/userChandru/Leetcode/tree/master/1380-lucky-numbers-in-a-matrix) |
